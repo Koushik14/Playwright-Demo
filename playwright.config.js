@@ -18,7 +18,7 @@ export default defineConfig({
   //workers: process.env.CI ? 1 : undefined,
 
   // Reporter to use
-  //reporter: 'html',
+  reporter: 'html',
 
   use: {
     // Base URL to use in actions like `await page.goto('/')`.
@@ -37,12 +37,12 @@ export default defineConfig({
         ...devices['Desktop Chrome'],
       },
     },
-    {
-      name: 'Mobile Safari',
-      use: {
-        ...devices['iPhone 13'],
-      },
-    },
+    // {
+    //   name: 'Mobile Safari',
+    //   use: {
+    //     ...devices['iPhone 13'],
+    //   },
+    // },
   ],
   // Run your local dev server before starting the tests.
 //   webServer: {
