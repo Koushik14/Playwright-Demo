@@ -1,5 +1,5 @@
 {
-    "myaccountDashboardText" : "//p[text()='Dashboard']",
+    "myaccountDashboardText" : "//p[text()='Works']",
     "myaccountSecDashboardText" : "//p[text()='Account']",
     "myaccountWorkTab" : "//p[text()='Work']",
     "myaccountPortfolioTab" : "//p[text()='Portfolio']",
