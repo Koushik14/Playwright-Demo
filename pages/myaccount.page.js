@@ -1,0 +1,64 @@
+import test, { expect } from 'playwright/test';
+const myaccountObjLocator =JSON.parse(JSON.stringify(require('../objectelementrepository/myaccountobjectelement.json')));
+
+exports.MyAccountPage = class MyAccountPage {
+constructor(page){
+    this.page=page;
+    this.dashboardLink=page.locator(myaccountObjLocator.myaccountDashboardText);
+    this.dashboardAccountLink=page.locator(myaccountObjLocator.myaccountSecDashboardText);
+    this.dashboardMyAccountWorkTab=page.locator(myaccountObjLocator.myaccountWorkTab);
+    this.dashboardMyAccountPortfolioTab=page.locator(myaccountObjLocator.myaccountPortfolioTab);
+    this.dashboardMyAccountAddWorkButton=page.getByLabel(myaccountObjLocator.myaccountAddWorkButton);
+    this.dashboardMyAccountWritingWorkButton=page.locator(myaccountObjLocator.myaccountWritingWorkButton);
+    this.dashboardMyAccountWritingWork=page.locator(myaccountObjLocator.myaccountWritingMyWork);
+    this.dashboardMyAccountWritingWorkDetails=page.locator(myaccountObjLocator.myaccountWritingWorkDetails);
+    //this.myaccountWritingWorkDisplay=page.locator(myaccountObjLocator.myaccountWritingWorkDisplay);
+    this.myaccountWritingWorkDisplay=page.getByLabel('Work').getByText('Loading...');
+    this.myaccountMessageInfo=page.locator(myaccountObjLocator.myaccountMessageInfo);
+    this.myaccountMyWritingWork=page.locator(myaccountObjLocator.myaccountMyWritingWork);
+    
+}
+
+async verifyMyAccountDashboard(){
+    await expect(this.dashboardLink).toBeVisible();
+    await expect(this.dashboardAccountLink).toBeVisible();
+}
+
+async verifyWorkTab(){
+    await expect(this.dashboardMyAccountWorkTab).toBeVisible();
+}
+
+async verifyPortfolioTab(){
+    await expect(this.dashboardMyAccountPortfolioTab).toBeVisible();
+}
+
+async clickWorkTab(){
+    await this.dashboardMyAccountWorkTab.click();
+}
+
+async clickAddWorkButton(){
+    await this.dashboardMyAccountAddWorkButton.click();
+    await this.page.waitForURL('**/participants/work');
+}
+
+async clickPortfolioTab(){
+    await this.dashboardMyAccountPortfolioTab.click();
+}
+
+async clickWritingWorkButton(){
+    await this.dashboardMyAccountWritingWorkButton.click();
+    await expect(this.myaccountWritingWorkDisplay).toBeHidden();
+    await expect(this.dashboardMyAccountWritingWork).toBeVisible();
+    await this.page.waitForURL('**/work?type=W'); 
+    
+       
+    await expect(this.myaccountMessageInfo).toBeVisible();
+    await expect(this.myaccountMyWritingWork).toBeVisible(); 
+    await this.page.waitForURL('**/work?type=W'); 
+    
+}
+
+
+
+
+}

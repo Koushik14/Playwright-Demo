@@ -1,0 +1,6 @@
+{
+    "manageWorkPayNowPageHeaderText" : "//p[text()='Your work was entered for judging pending payment.']",
+    "manageWorkPayNowButton" : "//button[text()='Pay Now']",
+    "manageWorkPayNowModal" : "dialog"
+           
+}

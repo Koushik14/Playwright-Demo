@@ -1,0 +1,9 @@
+{
+    "manageWorkCashAwardsPageHeaderText" : "//h2[text()='More Opportunities!']",
+    "manageWorkCashAwardsTab" : "//button[text()='Cash Awards']",
+    "manageWorkCashAwardsText" : "//h2[text()='You can receive cash awards and scholarships!']",
+    "manageWorkCashAwardsSaveAndContButton" : "//button[text()='Save and Continue']",
+    "manageWorkCashAwardsLifeAwardText" : "//p[text()='New York Life Award']"
+
+       
+}

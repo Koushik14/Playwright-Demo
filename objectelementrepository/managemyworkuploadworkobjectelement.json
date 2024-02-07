@@ -1,0 +1,10 @@
+{
+    "manageWorkUploadWorkHeaderText" : "//h2[text()='Writing Work Entry']",
+    "manageWorkUploadWorkTab" : "//button[text()='Upload']",
+    "manageWorkUploadWorkContentTextbox" : "//div[contains(@class,'ql-editor ql-blank')]",
+    "manageWorkUploadWorkMinCharacterText" : "//p[text()='Must be between 1000 and 3,000 words.']",
+    "manageWorkQuoteWriterRadioButtonNoOption" : "label:nth-child(2) > .chakra-radio__control",
+    "manageWorkParaphraseWriterRadioButtonNoOption" : "div:nth-child(2) > .css-pr2tx6 > .chakra-form-control > .css-hgv8oa > .chakra-button__group > .chakra-stack > label:nth-child(2) > .chakra-radio__control",
+    "manageWorkInspiredWriterRadioButtonNoOption" : "div:nth-child(3) > .css-pr2tx6 > .chakra-form-control > .css-hgv8oa > .chakra-button__group > .chakra-stack > label:nth-child(2) > .chakra-radio__control"
+       
+}

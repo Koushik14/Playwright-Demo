@@ -1,0 +1,10 @@
+{
+    "manageWorkCheckoutStripePageHeaderText" : "//span[text()='Pay with ']",
+    "manageWorkCheckoutStripeEmailTextBox" : "Email",
+    "manageWorkCheckoutStripeCardNumber" : "1234 1234 1234",
+    "manageWorkCheckoutStripeExpDate" : "MM / YY",
+    "manageWorkCheckoutStripeCVV" : "CVC",
+    "manageWorkCheckoutStripeCardHolderName" : "Full name on card",
+    "manageWorkCheckoutStripePayButton" : "hosted-payment-submit-button"
+                   
+}

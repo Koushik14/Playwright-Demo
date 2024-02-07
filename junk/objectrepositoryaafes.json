@@ -1,0 +1,13 @@
+{
+    "usernameTextbox" : "Username / Email",
+    "usernamePassword" : "Password :",
+    "signinbuttonname" : "Sign In",
+    "myaccountlink" : "//p[text()=\"My Account\"]",
+    "_comment" : "Dashboard page Locator",
+    "myaccountpage" : "//a[@href=\"/account#\"]",
+    "myaccountpagetitle" : "//h3[text()=\"Account Home\"]",
+    "loggedinusertext" : "//p[text()=\"Hi, \"]"
+
+
+
+}

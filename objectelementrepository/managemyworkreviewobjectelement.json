@@ -1,0 +1,9 @@
+{
+    "manageWorkReviewPageHeaderText" : "//h2[text()='Writing Work Review']",
+    "manageWorkReviewTab" : "//button[text()='Review']",
+    "manageWorkReviewUploadedWriting" : "//div[@contenteditable='false']//p[1]",
+    "manageWorkReviewCopyright" : "//*[@id=\"__next\"]/div/div[2]/form/div[1]/div[5]/div/div[1]/div[1]/label/span",
+    "manageWorkReviewTermsAndConditions" : "//*[@id=\"__next\"]/div/div[2]/form/div[1]/div[5]/div/div[2]/div[1]/label/span",
+    "manageWorkReviewEnterForJudgingButton" : "//button[text()='Enter for Judging']"
+       
+}

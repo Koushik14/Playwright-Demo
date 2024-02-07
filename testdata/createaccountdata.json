@@ -1,0 +1,19 @@
+ {
+        "createAccountDOBSelectYear" : "2010",
+        "createAccountDOBSelectDate" : "2",
+        "createAccountDOBSelectGrade" : "12",
+        "createAccountFirstName" : "James",
+        "createAccountLastName" : "Bond",
+        "createAccountEmail" : "artworkautojames_2490@yopmail.com",
+        "createAccountPhoneNumber" : "4355345454",
+        "createAccountPassword" : "Test@1234",
+        "createAccountParentFirstName" : "Robert",
+        "createAccountParentLastName" : "Den",
+        "createAccountParentEmail" : "artworkautoparent@yopmail.com",
+        "createAccountCountry" : "USA",
+        "createAccountState" : "WV",
+        "createAccountZipcode" : "26757",
+        "createAccountSchoolName" : "Romney Elementary School",
+        "createAccountPronoun" : "#react-select-2-option-2 span",
+        "createAccountEthnicity" : "#react-select-3-option-5 span"
+ }

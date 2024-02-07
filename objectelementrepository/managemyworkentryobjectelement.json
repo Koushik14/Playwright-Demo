@@ -1,0 +1,12 @@
+{
+    "manageWorkPageHeaderText" : "//h2[text()='Manage Your Work Entry']",
+    "manageWorkBasicInfoTab" : "//button[text()='Basic Info']",
+    "manageWorkTitleTextBox" : "Title",
+    "manageWorkCategoryTypeDropdown" : "#categoryType-dropDown",
+    "manageWorkCategoryCodeDropdown" : "#categoryCode-dropDown",
+    "manageWorkBriefSummary" : "Please write a brief summary",
+    "manageWorkEducatorDropdown" : "#educatorId-dropDown",
+    "manageWorkSaveAndContinueButtton" : "Save and Continue",
+    "manageWorkSaveAndCloseButtton" : "Save and Close"
+   
+}

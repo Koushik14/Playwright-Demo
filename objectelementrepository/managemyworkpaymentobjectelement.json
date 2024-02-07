@@ -1,0 +1,10 @@
+{
+    "manageWorkPaymentPageHeaderText" : "//h2[text()='Pay for Work']",
+    "manageWorkPaymentPageWorks" : "//h2[text()='Your works are eligible for payment and entry']",
+    "manageWorkSelectPaymentWork" : "//circle[@class='chakra-progress__indicator css-zfuom8']",
+    "manageWorkPaymentOptionCC" : "radiogroup",
+    "manageWorkPaymentOptionlocatorCC" : "span",
+    "manageWorkPaymentPayButton" : "//button[text()='Pay']",
+    "manageWorkPaymentConfirmButton" :"Confirm"
+                   
+}

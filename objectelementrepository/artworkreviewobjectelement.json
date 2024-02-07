@@ -1,0 +1,9 @@
+{
+    "artWorkReviewPageHeaderText" : "//h2[text()='Art Work Review']",
+    "artWorkReviewTab" : "//button[text()='Review']",
+    "artWorkReviewUploadedArt" : "//img[@class='chakra-image css-coiq5f']",
+    "artWorkReviewCopyright" : "//*[@id=\"__next\"]/div/div[2]/form/div[1]/div[5]/div/div[1]/div[1]/label/span",
+    "artWorkReviewTermsAndConditions" : "//*[@id=\"__next\"]/div/div[2]/form/div[1]/div[5]/div/div[2]/div[1]/label/span",
+    "artWorkReviewEnterForJudgingButton" : "//button[text()='Enter for Judging']"
+       
+}

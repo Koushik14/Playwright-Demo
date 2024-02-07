@@ -1,0 +1,11 @@
+{
+    "artWorkPageHeaderText" : "//h2[text()='Art Work Entry']",
+    "artWorkUploadWorkText" : "//h2[text()='Upload your art work']",
+    "artWorkDescribeMyWorkText" : "//h2[text()='Describe My Work']",
+    "artWorkAddHeightTextbox" : "Height(in inches)",
+    "artWorkAddWidthTextbox" : "Width(in inches)",
+    "artWorkAddDepthTextbox" : "Depth(in inches)",
+    "artWorkToolsAndMaterialsTextbox" : "Type in and press enter",
+    "artWorkBrowseFileLink" : "browse files"
+      
+}

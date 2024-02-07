@@ -1,0 +1,13 @@
+{
+    "usernameTextbox" : "* Email",
+    "usernamePassword" : "* Password",
+    "signinbuttonname" : "Login",
+    "Signinlink" : "Login to your account",
+    "_comment" : "Dashboard page Locator",
+    "myaccountname" : "My Account",
+    "myaccountpagetitle" : "//h3[text()='My Account']",
+    "verifyloginemail" : "//dt[text()='Email']/following-sibling::dd"
+
+
+
+}
