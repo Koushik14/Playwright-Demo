@@ -10,12 +10,13 @@ constructor(page){
     this.dashboardMyAccountPortfolioTab=page.locator(myaccountObjLocator.myaccountPortfolioTab);
     this.dashboardMyAccountAddWorkButton=page.getByLabel(myaccountObjLocator.myaccountAddWorkButton);
     this.dashboardMyAccountWritingWorkButton=page.locator(myaccountObjLocator.myaccountWritingWorkButton);
-    this.dashboardMyAccountWritingWork=page.locator(myaccountObjLocator.myaccountWritingMyWork);
+    //this.dashboardMyAccountWritingWork=page.locator(myaccountObjLocator.myaccountWritingMyWork);
     this.dashboardMyAccountWritingWorkDetails=page.locator(myaccountObjLocator.myaccountWritingWorkDetails);
     //this.myaccountWritingWorkDisplay=page.locator(myaccountObjLocator.myaccountWritingWorkDisplay);
     this.myaccountWritingWorkDisplay=page.getByLabel('Work').getByText('Loading...');
     this.myaccountMessageInfo=page.locator(myaccountObjLocator.myaccountMessageInfo);
     this.myaccountMyWritingWork=page.locator(myaccountObjLocator.myaccountMyWritingWork);
+    //this.myaccountMyWritingWork=page.wait_for_selector(myaccountObjLocator.myaccountMyWritingWork);
     
 }
 
@@ -45,17 +46,10 @@ async clickPortfolioTab(){
     await this.dashboardMyAccountPortfolioTab.click();
 }
 
-async clickWritingWorkButton(){
-    await this.dashboardMyAccountWritingWorkButton.click();
-    await expect(this.myaccountWritingWorkDisplay).toBeHidden();
-    await expect(this.dashboardMyAccountWritingWork).toBeVisible();
-    await this.page.waitForURL('**/work?type=W'); 
-    
-       
-    await expect(this.myaccountMessageInfo).toBeVisible();
+async verifyWritingWork(){
+    await this.page.waitForURL('**/work?type=W');
     await expect(this.myaccountMyWritingWork).toBeVisible(); 
-    await this.page.waitForURL('**/work?type=W'); 
-    
+   
 }
 
 

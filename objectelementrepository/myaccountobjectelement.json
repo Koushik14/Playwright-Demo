@@ -4,12 +4,12 @@
     "myaccountWorkTab" : "//p[text()='Work']",
     "myaccountPortfolioTab" : "//p[text()='Portfolio']",
     "myaccountAddWorkButton" : "add entry, button",
-    "myaccountWritingWorkButton" : "//button[text()='Writing Work']",
+    "myaccountWritingWorkButton" : "//button[text()='Writing']",
     "myaccountWritingMyWork" : "//h2[text()='My Work']",
     "myaccountWritingWorkDetails" : "//p[@class='chakra-text css-nmnn8v']",
     "myaccountWritingWorkDisplay" : "//span[@class='css-f8n5zr']",
     "myaccountMessageInfo" : "//div[@class='css-1ie6i2v']",
-    "myaccountMyWritingWork" : "//div[@class='chakra-stack css-njp8kx']"
+    "myaccountMyWritingWork" : "//*[@id=\"tabs-:r2:--tabpanel-0\"]/div[2]/div[2]/div[1]/div[1]/div"
 
 
    

@@ -42,7 +42,7 @@ test.describe("Art & Writing Site", ()=>{
 
   
 
-  test.only("Verify user able to login properly in art & write site",async({page})=>{ 
+  test("Verify user able to login properly in art & write site",async({page})=>{ 
     const myaccountPage = new MyAccountPage(page);
     await myaccountPage.verifyMyAccountDashboard();
     await page.screenshot({ path: './screenshots/MyAccountDashboardPage.png', fullPage: true });
@@ -306,7 +306,7 @@ test.describe("Art & Writing Site", ()=>{
     
   })
 
-  test("Verify Writing Work Checkout Payment Done Properly", async({page})=> {
+  test.only("Verify Writing Work Checkout Payment Done Properly", async({page})=> {
     test.slow();
     const myaccountPage = new MyAccountPage(page);
     await myaccountPage.clickAddWorkButton();
@@ -363,7 +363,8 @@ test.describe("Art & Writing Site", ()=>{
     await checkoutPayment.checkoutPageEnterCardHolderName(checkoutdata.checkoutCardHolderName);
     await checkoutPayment.clickCheckoutPayButton();
     await checkoutPayment.verifyPaymentProcess();
-    await myaccountPage.clickWritingWorkButton();
+    await myaccountPage.verifyWritingWork();
+    
 
     await page.screenshot({ path: './screenshots/WitingMyWorkPage.png', fullPage: true });
 

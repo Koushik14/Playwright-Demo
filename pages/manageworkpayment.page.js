@@ -15,7 +15,6 @@ exports.PaymentPage = class PaymentPage {
 
     async waitForPaymentPageLoad(){
         await this.page.waitForURL('**/payment?selectedEntry=**');
-        //await this.page.waitForLoadState('domcontentloaded');
         await expect(this.manageWorkSelectPaymentWork).toBeHidden();
     }
 
@@ -33,15 +32,10 @@ exports.PaymentPage = class PaymentPage {
     async clickPayButton(){
         await this.manageWorkPaymentPayButton.click();
         await this.manageWorkPaymentConfirmButton.click();
+        await this.page.waitForNavigation();
         await this.page.once('dialog', dialog => {
             console.log(`Dialog message: ${dialog.message()}`);
             dialog.dismiss().catch(() => {});
           });
-
-          await this.manageWorkPaymentPayButton.click();
-          await this.manageWorkPaymentConfirmButton.click();
-
-          
-
     }
 }

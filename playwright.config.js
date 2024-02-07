@@ -20,6 +20,10 @@ export default defineConfig({
   // Reporter to use
   reporter: 'html',
 
+  expect: {
+    timeout: 10 * 1000,
+  },
+
   use: {
     // Base URL to use in actions like `await page.goto('/')`.
     //baseURL: 'http://127.0.0.1:3000',
@@ -37,12 +41,13 @@ export default defineConfig({
         ...devices['Desktop Chrome'],
       },
     },
-    // {
-    //   name: 'Mobile Safari',
-    //   use: {
-    //     ...devices['iPhone 13'],
-    //   },
-    // },
+    {
+      name: 'Mobile Chrome',
+      use: {
+        ...devices['iPhone 12'],browserName: 'chromium',
+
+      },
+    },
   ],
   // Run your local dev server before starting the tests.
 //   webServer: {

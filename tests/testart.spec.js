@@ -368,8 +368,6 @@ test.describe("Art & Writing Site", ()=>{
     await checkoutPayment.checkoutPageEnterCardHolderName(checkoutdata.checkoutCardHolderName);
     await checkoutPayment.clickCheckoutPayButton();
     await checkoutPayment.verifyPaymentProcess();
-    //await myaccountPage.clickWritingWorkButton();
-
     await page.screenshot({ path: './screenshots/ArtWork.png', fullPage: true });
 
     

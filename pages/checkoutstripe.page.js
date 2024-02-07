@@ -5,15 +5,23 @@ exports.CheckoutStripe = class CheckoutStripe {
     constructor(page){
         this.page=page;
         this.manageWorkCheckoutStripePageHeaderText=page.locator(checkoutStripeLocator.manageWorkCheckoutStripePageHeaderText);
-        this.manageWorkCheckoutStripeEmailTextBox=page.getByLabel(checkoutStripeLocator.manageWorkCheckoutStripeEmailTextBox);
-        this.manageWorkCheckoutStripeCardNumber=page.getByPlaceholder(checkoutStripeLocator.manageWorkCheckoutStripeCardNumber);
-        this.manageWorkCheckoutStripeExpDate=page.getByPlaceholder(checkoutStripeLocator.manageWorkCheckoutStripeExpDate);
-        this.manageWorkCheckoutStripeCVV=page.getByPlaceholder(checkoutStripeLocator.manageWorkCheckoutStripeCVV);
-        this.manageWorkCheckoutStripeCardHolderName=page.getByPlaceholder(checkoutStripeLocator.manageWorkCheckoutStripeCardHolderName);
+        //this.manageWorkCheckoutStripePageHeaderText=page.getByText('Pay with ');
+        // this.manageWorkCheckoutStripeEmailTextBox=page.getByLabel(checkoutStripeLocator.manageWorkCheckoutStripeEmailTextBox);
+        // this.manageWorkCheckoutStripeCardNumber=page.getByPlaceholder(checkoutStripeLocator.manageWorkCheckoutStripeCardNumber);
+        // this.manageWorkCheckoutStripeExpDate=page.getByPlaceholder(checkoutStripeLocator.manageWorkCheckoutStripeExpDate);
+        // this.manageWorkCheckoutStripeCVV=page.getByPlaceholder(checkoutStripeLocator.manageWorkCheckoutStripeCVV);
+        // this.manageWorkCheckoutStripeCardHolderName=page.getByPlaceholder(checkoutStripeLocator.manageWorkCheckoutStripeCardHolderName);
+
+        this.manageWorkCheckoutStripeEmailTextBox=page.locator(checkoutStripeLocator.manageWorkCheckoutStripeEmailTextBox);
+        this.manageWorkCheckoutStripeCardNumber=page.locator(checkoutStripeLocator.manageWorkCheckoutStripeCardNumber);
+        this.manageWorkCheckoutStripeExpDate=page.locator(checkoutStripeLocator.manageWorkCheckoutStripeExpDate);
+        this.manageWorkCheckoutStripeCVV=page.locator(checkoutStripeLocator.manageWorkCheckoutStripeCVV);
+        this.manageWorkCheckoutStripeCardHolderName=page.locator(checkoutStripeLocator.manageWorkCheckoutStripeCardHolderName);
         this.manageWorkCheckoutStripePayButton=page.getByTestId(checkoutStripeLocator.manageWorkCheckoutStripePayButton);
     }
 
     async verifyCheckoutStripe(){
+        
         await this.page.waitForURL('**/cs_test_**');
         //await expect(this.manageWorkCheckoutStripePageHeaderText).toBeVisible();
     }
@@ -44,7 +52,10 @@ exports.CheckoutStripe = class CheckoutStripe {
 
     async verifyPaymentProcess(){
         //await this.page.waitForURL('**/paymentsuccess**');
+        await this.page.waitForNavigation();
         await this.page.waitForURL('**/work?type=A');
+        await this.page.goto('https://dev-portal-stage.artandwriting.org/participants/dashboard/work?type=W');
+        
     }
 
 }
