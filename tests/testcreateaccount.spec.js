@@ -95,11 +95,11 @@ test.describe("Art & Writing Site", ()=>{
         await createAccount.selectEthnicityValue(createaccountdata.createAccountEthnicity);
         
         if(isMobile==false){
-          console.log(isMobile);
+          
           await createAccount.enterEmail(createaccountdata.createAccountEmail);
           await createAccount.enterConfEmail(createaccountdata.createAccountEmail);
         }else{
-          console.log('mobile device: ' + isMobile);
+          
           await createAccount.enterEmail(createaccountdata.createAccountEmailMobile);
           await createAccount.enterConfEmail(createaccountdata.createAccountEmailMobile);
         }

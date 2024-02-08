@@ -20,8 +20,14 @@ export default defineConfig({
   // Reporter to use
   //reporter: 'html',
   reporter: [
-    ['list'],
-    ['allure-playwright'],
+    [
+      "allure-playwright",
+      {
+        detail: true,
+        outputFolder: "my-allure-results",
+        suiteTitle: false,
+      },
+    ],
   ],
 
   // expect: {
