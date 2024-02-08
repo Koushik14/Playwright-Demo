@@ -5,6 +5,7 @@
     "manageWorkCheckoutStripeExpDate" : "input#cardExpiry",
     "manageWorkCheckoutStripeCVV" : "input#cardCvc",
     "manageWorkCheckoutStripeCardHolderName" : "input#billingName",
-    "manageWorkCheckoutStripePayButton" : "hosted-payment-submit-button"
+    "manageWorkCheckoutStripePayButton" : "hosted-payment-submit-button",
+    "manageWorkCheckoutStripeSelectCountry" : "select#billingCountry"
                    
 }

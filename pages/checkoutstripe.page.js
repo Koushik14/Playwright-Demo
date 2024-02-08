@@ -18,6 +18,7 @@ exports.CheckoutStripe = class CheckoutStripe {
         this.manageWorkCheckoutStripeCVV=page.locator(checkoutStripeLocator.manageWorkCheckoutStripeCVV);
         this.manageWorkCheckoutStripeCardHolderName=page.locator(checkoutStripeLocator.manageWorkCheckoutStripeCardHolderName);
         this.manageWorkCheckoutStripePayButton=page.getByTestId(checkoutStripeLocator.manageWorkCheckoutStripePayButton);
+        this.manageWorkCheckoutStripeSelectCountry=page.locator(checkoutStripeLocator.manageWorkCheckoutStripeSelectCountry);
     }
 
     async verifyCheckoutStripe(){
@@ -44,6 +45,10 @@ exports.CheckoutStripe = class CheckoutStripe {
 
     async checkoutPageEnterCardHolderName(enterCardHolderName){
         await this.manageWorkCheckoutStripeCardHolderName.fill(enterCardHolderName);
+    }
+
+    async checkoutPageSelectCountry(enterCountryName){
+        await this.manageWorkCheckoutStripeSelectCountry.selectOption(enterCountryName);
     }
 
     async clickCheckoutPayButton(){

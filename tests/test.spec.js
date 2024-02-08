@@ -361,6 +361,7 @@ test.describe("Art & Writing Site", ()=>{
     await checkoutPayment.checkoutPageEnterExpDate(checkoutdata.checkoutCardExpDate);
     await checkoutPayment.checkoutPageEnterCVV(checkoutdata.checkoutCardCVV);
     await checkoutPayment.checkoutPageEnterCardHolderName(checkoutdata.checkoutCardHolderName);
+    await checkoutPayment.checkoutPageSelectCountry(checkoutdata.checkoutCountryName);
     await checkoutPayment.clickCheckoutPayButton();
     await checkoutPayment.verifyPaymentProcess();
     await myaccountPage.verifyWritingWork();
