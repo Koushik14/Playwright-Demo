@@ -19,6 +19,11 @@ export default defineConfig({
 
   // Reporter to use
   //reporter: 'html',
+  reporter: [
+    [
+      "allure-playwright",
+    ],
+  ],
   
   // expect: {
   //   timeout: 10 * 1000,
