@@ -23,9 +23,9 @@
     "creatAccountSignUpParentLastNameTextBox" : "input[name=\"parentLastName\"]",
     "creatAccountSignUpParentEmailTextBox" : "Email",
     "creatAccountSignUpFindRegionTextHeader" : "Find Your Region by searching",
-    "creatAccountSignUpCountryDropdown" : "#schoolCountry-dropDown",
-    "creatAccountSignUpStateDropdown" : "#schoolState-dropDown",
-    "creatAccountSignUpZipcodeTextBox" : "Zip code",
+    "creatAccountSignUpCountryDropdown" : "//*[@id=\"schoolCountry-dropDown\"]",
+    "creatAccountSignUpStateDropdown" : "//*[@id=\"schoolState-dropDown\"]",
+    "creatAccountSignUpZipcodeTextBox" : "//input[@name='schoolZip']",
     "createAccountMyInfoPageHeadertext" : "Welcome to the Art & Writing"
     
 }

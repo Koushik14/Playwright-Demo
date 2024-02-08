@@ -29,7 +29,7 @@ exports.CreateAccountPage = class CreateAccountPage {
         this.creatAccountSignUpFindRegionTextHeader=page.getByRole('heading', { name: createAccountObjLocator.creatAccountSignUpFindRegionTextHeader });
         this.creatAccountSignUpCountryDropdown=page.locator(createAccountObjLocator.creatAccountSignUpCountryDropdown);
         this.creatAccountSignUpStateDropdown=page.locator(createAccountObjLocator.creatAccountSignUpStateDropdown);
-        this.creatAccountSignUpZipcodeTextBox=page.getByPlaceholder(createAccountObjLocator.creatAccountSignUpZipcodeTextBox);
+        this.creatAccountSignUpZipcodeTextBox=page.locator(createAccountObjLocator.creatAccountSignUpZipcodeTextBox);
         this.createAccountMyInfoPageHeadertext=page.getByRole('heading', { name: createAccountObjLocator.createAccountMyInfoPageHeadertext });
 
     }

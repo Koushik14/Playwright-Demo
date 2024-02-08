@@ -30,6 +30,7 @@ test.describe("Art & Writing Site", ()=>{
   })
 
   test("Verify user able to login properly in art & write site",async({page})=>{ 
+    test.slow();
     const myaccountPage = new MyAccountPage(page);
     await myaccountPage.verifyMyAccountDashboard();
     await page.screenshot({ path: './screenshots/MyAccountDashboardPage.png', fullPage: true });
@@ -37,12 +38,14 @@ test.describe("Art & Writing Site", ()=>{
   })
 
   test("Verify In My Account Dashboard Page Work Tab Is Visible", async({page})=> {
+    test.slow();
     const myaccountPage = new MyAccountPage(page);
      await myaccountPage.verifyWorkTab();
 
   })
 
   test("Verify My Account Dashboard Click on the Add Work Button", async({page})=> {
+    test.slow();
     const myaccountPage = new MyAccountPage(page);
     await myaccountPage.clickAddWorkButton();
     await page.screenshot({ path: './screenshots/AddWorkPage.png', fullPage: true });
@@ -50,6 +53,7 @@ test.describe("Art & Writing Site", ()=>{
   })
   
   test("Verify Art Work Manage Work Page", async({page})=> {
+    test.slow();
     const myaccountPage = new MyAccountPage(page);
     await myaccountPage.clickAddWorkButton();
     

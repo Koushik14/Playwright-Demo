@@ -69,8 +69,9 @@ test.describe("Art & Writing Site", ()=>{
             
       })
 
-      test("Verify User Create Account Successfully",async({page})=>{
+      test("Verify User Create Account Successfully",async({page, isMobile})=>{
         test.slow();  
+        
         const loginPage = new SignInPage(page);
         await loginPage.signPage();
         await loginPage.waitForSignInPageLoad();
@@ -92,8 +93,17 @@ test.describe("Art & Writing Site", ()=>{
         await createAccount.selectPronounValue(createaccountdata.createAccountPronoun);
         await createAccount.clickOnEthnicityDropdown();
         await createAccount.selectEthnicityValue(createaccountdata.createAccountEthnicity);
-        await createAccount.enterEmail(createaccountdata.createAccountEmail);
-        await createAccount.enterConfEmail(createaccountdata.createAccountEmail);
+        
+        if(isMobile==false){
+          console.log(isMobile);
+          await createAccount.enterEmail(createaccountdata.createAccountEmail);
+          await createAccount.enterConfEmail(createaccountdata.createAccountEmail);
+        }else{
+          console.log('mobile device: ' + isMobile);
+          await createAccount.enterEmail(createaccountdata.createAccountEmailMobile);
+          await createAccount.enterConfEmail(createaccountdata.createAccountEmailMobile);
+        }
+        
         await createAccount.enterPhoneNumber(createaccountdata.createAccountPhoneNumber);
         await createAccount.enterCreatePassword(createaccountdata.createAccountPassword);
         await createAccount.enterVerifyPassword(createaccountdata.createAccountPassword);

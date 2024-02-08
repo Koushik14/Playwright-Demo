@@ -320,7 +320,7 @@ test.describe("Art & Writing Site", ()=>{
     
   })
 
-  test.only("Verify Writing Work Checkout Payment Done Properly", async({page})=> {
+  test("Verify Writing Work Checkout Payment Done Properly", async({page})=> {
     test.slow();
     const myaccountPage = new MyAccountPage(page);
     await myaccountPage.clickAddWorkButton();
