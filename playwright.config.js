@@ -19,17 +19,7 @@ export default defineConfig({
 
   // Reporter to use
   //reporter: 'html',
-  reporter: [
-    [
-      "allure-playwright",
-      {
-        detail: true,
-        outputFolder: "my-allure-results",
-        suiteTitle: false,
-      },
-    ],
-  ],
-
+  
   // expect: {
   //   timeout: 10 * 1000,
   // },
