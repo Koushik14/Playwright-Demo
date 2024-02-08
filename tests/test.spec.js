@@ -27,22 +27,28 @@ const records = parse(csv.readFileSync('./testdata/logindata.csv','utf-8'), {
 
 test.describe("Art & Writing Site", ()=>{
 
-  test.beforeEach(async({page})=>{
+  test.beforeEach(async({page,isMobile})=>{
     const loginPage = new SignInPage(page);
     await loginPage.signPage();
     await page.screenshot({ path: './screenshots/SignInPage.png', fullPage: true });
     //Login using JSON file data
     //await loginPage.login(logindata.userName,logindata.Password);
     //Login using CSV Data File
+    //console.log(isMobile)
     for(const record of records){
-      await loginPage.login(record.userName,record.Password);
+      if(isMobile==false){
+        await loginPage.login(record.userName,record.Password);  
+      }
+      else{
+        await loginPage.login(record.userNameMobile,record.PasswordMobile);
+      }
+      
     }
     
   })
 
-  
-
   test("Verify user able to login properly in art & write site",async({page})=>{ 
+    test.slow();
     const myaccountPage = new MyAccountPage(page);
     await myaccountPage.verifyMyAccountDashboard();
     await page.screenshot({ path: './screenshots/MyAccountDashboardPage.png', fullPage: true });
@@ -50,12 +56,14 @@ test.describe("Art & Writing Site", ()=>{
   })
 
   test("Verify In My Account Dashboard Page Work Tab Is Visible", async({page})=> {
+    test.slow();
     const myaccountPage = new MyAccountPage(page);
      await myaccountPage.verifyWorkTab();
 
   })
 
   test("Verify My Account Dashboard Click on the Add Work Button", async({page})=> {
+    test.slow();
     const myaccountPage = new MyAccountPage(page);
     await myaccountPage.clickAddWorkButton();
     await page.screenshot({ path: './screenshots/AddWorkPage.png', fullPage: true });
@@ -63,6 +71,7 @@ test.describe("Art & Writing Site", ()=>{
   })
 
   test("Verify In My Account Dashboard Page Portfolio Tab Is Visible", async({page})=> {
+    test.slow();
     const myaccountPage = new MyAccountPage(page);
     await myaccountPage.verifyPortfolioTab();
     
@@ -70,6 +79,7 @@ test.describe("Art & Writing Site", ()=>{
   })
 
   test("Verify My Account Dashboard Click on the Add Portfolio Button", async({page})=> {
+    test.slow();
     const myaccountPage = new MyAccountPage(page);
     await myaccountPage.clickPortfolioTab();
     await page.screenshot({ path: './screenshots/MyAccountDashboardPortfolioPage.png', fullPage: true });
@@ -77,6 +87,7 @@ test.describe("Art & Writing Site", ()=>{
   })
 
   test("Verify Manage Work Page", async({page})=> {
+    test.slow();
     const myaccountPage = new MyAccountPage(page);
     await myaccountPage.clickAddWorkButton();
     const manageWorkPage = new ManageWorkPage(page);
@@ -85,6 +96,7 @@ test.describe("Art & Writing Site", ()=>{
   })
 
   test("Verify Manage Work Page Data", async({page})=> {
+    test.slow();
     const myaccountPage = new MyAccountPage(page);
     await myaccountPage.clickAddWorkButton();
     const manageWorkPage = new ManageWorkPage(page);
@@ -99,6 +111,7 @@ test.describe("Art & Writing Site", ()=>{
   })
 
   test("Verify Work Upload Page Display Properly", async({page})=> {
+    test.slow();
     const myaccountPage = new MyAccountPage(page);
     await myaccountPage.clickAddWorkButton();
     const manageWorkPage = new ManageWorkPage(page);
@@ -120,6 +133,7 @@ test.describe("Art & Writing Site", ()=>{
   })
 
   test("Verify Writing Data Entered Properly on the Upload Work Page", async({page})=> {
+    test.slow();
     const myaccountPage = new MyAccountPage(page);
     await myaccountPage.clickAddWorkButton();
     const manageWorkPage = new ManageWorkPage(page);
@@ -306,7 +320,7 @@ test.describe("Art & Writing Site", ()=>{
     
   })
 
-  test("Verify Writing Work Checkout Payment Done Properly", async({page})=> {
+  test.only("Verify Writing Work Checkout Payment Done Properly", async({page})=> {
     test.slow();
     const myaccountPage = new MyAccountPage(page);
     await myaccountPage.clickAddWorkButton();

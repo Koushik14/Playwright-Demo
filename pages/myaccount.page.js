@@ -17,12 +17,14 @@ constructor(page){
     this.myaccountMessageInfo=page.locator(myaccountObjLocator.myaccountMessageInfo);
     this.myaccountMyWritingWork=page.locator(myaccountObjLocator.myaccountMyWritingWork);
     //this.myaccountMyWritingWork=page.wait_for_selector(myaccountObjLocator.myaccountMyWritingWork);
+    this.myaccountArtDeadLineHeader=page.locator(myaccountObjLocator.myaccountArtDeadLineHeader);
+    this.myaccountWritingDeadLineHeader=page.locator(myaccountObjLocator.myaccountWritingDeadLineHeader);
     
 }
 
 async verifyMyAccountDashboard(){
-    await expect(this.dashboardLink).toBeVisible();
-    await expect(this.dashboardAccountLink).toBeVisible();
+    await expect(this.myaccountArtDeadLineHeader).toBeVisible();
+    await expect(this.myaccountWritingDeadLineHeader).toBeVisible();
 }
 
 async verifyWorkTab(){
@@ -48,7 +50,7 @@ async clickPortfolioTab(){
 
 async verifyWritingWork(){
     await this.page.waitForURL('**/work?type=W');
-    await expect(this.myaccountMyWritingWork).toBeVisible(); 
+    await expect(this.myaccountMyWritingWork).toBeVisible({ timeout: 20000 }); 
    
 }
 

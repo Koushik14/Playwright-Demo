@@ -59,7 +59,7 @@ exports.CheckoutStripe = class CheckoutStripe {
     async verifyPaymentProcess(){
         //await this.page.waitForURL('**/paymentsuccess**');
         //await this.page.waitForNavigation();
-        //await this.page.waitForURL('**/work?type=A');
+        await this.page.waitForURL('**/work?type=A');
         //await expect(this.page).toHaveURL('https://dev-portal-stage.artandwriting.org/participants/dashboard/work?type=A');
         await this.page.goto('https://dev-portal-stage.artandwriting.org/participants/dashboard/work?type=W');
         
