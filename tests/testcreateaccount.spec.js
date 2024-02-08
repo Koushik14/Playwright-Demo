@@ -13,7 +13,7 @@ const createaccountdata =JSON.parse(JSON.stringify(require('../testdata/createac
 
 test.describe("Art & Writing Site", ()=>{
       
-    test.only("Verify Create Account Sign Up Page Display Properly",async({page})=>{
+    test("Verify Create Account Sign Up Page Display Properly",async({page})=>{
       test.slow();  
       const loginPage = new SignInPage(page);
       await loginPage.signPage();
