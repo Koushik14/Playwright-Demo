@@ -29,7 +29,7 @@ test.describe("Art & Writing Site", ()=>{
     
   })
 
-  test.only("Verify user able to login properly in art & write site",async({page})=>{ 
+  test("Verify user able to login properly in art & write site",async({page})=>{ 
     test.slow();
     const myaccountPage = new MyAccountPage(page);
     await myaccountPage.verifyMyAccountDashboard();
