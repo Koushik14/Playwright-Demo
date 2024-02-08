@@ -18,7 +18,11 @@ export default defineConfig({
   //workers: process.env.CI ? 1 : undefined,
 
   // Reporter to use
-  reporter: 'html',
+  //reporter: 'html',
+  reporter: [
+    ['list'],
+    ['allure-playwright'],
+  ],
 
   // expect: {
   //   timeout: 10 * 1000,
@@ -35,12 +39,12 @@ export default defineConfig({
   },
   // Configure projects for major browsers.
   projects: [
-    // {
-    //   name: 'chromium',
-    //   use: {
-    //     ...devices['Desktop Chrome'],
-    //   },
-    // },
+    {
+      name: 'chromium',
+      use: {
+        ...devices['Desktop Chrome'],
+      },
+    },
     {
       name: 'Mobile Chrome',
       use: {
