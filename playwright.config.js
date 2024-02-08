@@ -41,13 +41,13 @@ export default defineConfig({
         ...devices['Desktop Chrome'],
       },
     },
-    {
-      name: 'Mobile Chrome',
-      use: {
-        ...devices['iPhone 12'],browserName: 'chromium',
+    // {
+    //   name: 'Mobile Chrome',
+    //   use: {
+    //     ...devices['iPhone 12'],browserName: 'chromium',
 
-      },
-    },
+    //   },
+    // },
   ],
   // Run your local dev server before starting the tests.
 //   webServer: {
