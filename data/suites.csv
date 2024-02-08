@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Feb 08 12:02:11 UTC 2024","Thu Feb 08 12:02:13 UTC 2024","1626","chromium","testcreateaccount.spec.js","Art & Writing Site","","","Verify Create Account Sign Up Page Display Properly",""
+"passed","Thu Feb 08 12:02:13 UTC 2024","Thu Feb 08 12:02:17 UTC 2024","3806","Mobile Chrome","testart.spec.js","Art & Writing Site","","","Verify user able to login properly in art & write site",""
+"passed","Thu Feb 08 12:02:12 UTC 2024","Thu Feb 08 12:02:17 UTC 2024","5670","Mobile Chrome","test.spec.js","Art & Writing Site","","","Verify user able to login properly in art & write site",""
+"passed","Thu Feb 08 12:02:05 UTC 2024","Thu Feb 08 12:02:11 UTC 2024","5696","chromium","testart.spec.js","Art & Writing Site","","","Verify user able to login properly in art & write site",""
+"passed","Thu Feb 08 12:02:06 UTC 2024","Thu Feb 08 12:02:11 UTC 2024","5764","chromium","test.spec.js","Art & Writing Site","","","Verify user able to login properly in art & write site",""
+"passed","Thu Feb 08 12:02:17 UTC 2024","Thu Feb 08 12:02:19 UTC 2024","1672","Mobile Chrome","testcreateaccount.spec.js","Art & Writing Site","","","Verify Create Account Sign Up Page Display Properly",""
