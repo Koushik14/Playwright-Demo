@@ -19,6 +19,9 @@ jobs:
         run: npm ci
       - name: Install Playwright Browsers
         run: npx playwright install --with-deps
+      - name: Install Allure Playwright
+        run: npm i -D @playwright/test allure-playwright  
+
       - name: Run Playwright tests
         run: npx playwright test --reporter=line,allure-playwright
 
