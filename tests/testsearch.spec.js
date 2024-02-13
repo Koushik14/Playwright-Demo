@@ -38,10 +38,10 @@ test.describe("Art & Writing Site", ()=>{
       //console.log(isMobile)
       for(const record of records){
         if(isMobile==false){
-          await loginPage.adminUserlogin(record.userName,record.Password);  
+          await loginPage.adminUserlogin(record.userNameAdmin,record.PasswordAdmin);  
         }
         else{
-          await loginPage.adminUserlogin(record.userNameMobile,record.PasswordMobile);
+          await loginPage.adminUserlogin(record.userNameAdmin,record.PasswordAdmin);
         }
         
       }
