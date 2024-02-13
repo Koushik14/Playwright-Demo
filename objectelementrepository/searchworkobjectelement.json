@@ -1,0 +1,11 @@
+{
+    "searchWorkPageHeaderText" : "Search Work in Your Region",
+    "searchCombo" : "combobox",
+    "searchButtonName" : "Search",
+    "searchPageNavigationIcon" : "//button[@class='chakra-button css-h12mpk']",
+    "searchResultBox" : "//div[@class='css-1azfwbh']",
+    "searchResultFirstCellTitle" : "Work Title",
+    "searchTextContent" : "//p[@class='chakra-text css-nmnn8v']",
+    "searchResultLoadingButton" : "//div[@class='chakra-button__spinner chakra-button__spinner--start css-1aamklj']"
+           
+}
