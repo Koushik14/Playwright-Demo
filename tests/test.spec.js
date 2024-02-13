@@ -26,7 +26,7 @@ const records = parse(csv.readFileSync('./testdata/logindata.csv','utf-8'), {
 
 test.describe("Art & Writing Site", ()=>{
  
-  test.beforeEach(async({page,isMobile})=>{  
+  test.beforeEach(async({page,isMobile})=>{
     const loginPage = new SignInPage(page);
     await loginPage.signPage();
     await page.screenshot({ path: './screenshots/SignInPage.png', fullPage: true });

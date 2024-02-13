@@ -27,8 +27,8 @@ jobs:
 
       - name: Generate allure report
         run: |
-          npm install -D allure-commandline
-          npx allure generate ./allure-results --clean
+          npm install -D allure-commandline --save-dev
+          npx allure generate ./allure-results --clean -o allure-report
         
       - name: Publish test report
         uses: peaceiris/actions-gh-pages@v3
