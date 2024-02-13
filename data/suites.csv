@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Feb 13 12:31:16 UTC 2024","Tue Feb 13 12:31:26 UTC 2024","10155","End to End Submit Art Work","testart.spec.js","Art & Writing Site","","","Verify user able to login properly in art & write site",""
+"passed","Tue Feb 13 12:31:25 UTC 2024","Tue Feb 13 12:31:27 UTC 2024","2195","End to End Create New user Account","testcreateaccount.spec.js","Art & Writing Site","","","Verify Create Account Sign Up Page Display Properly",""
+"passed","Tue Feb 13 12:31:16 UTC 2024","Tue Feb 13 12:31:25 UTC 2024","9371","End to End Submit Writing Work","test.spec.js","Art & Writing Site","","","Verify user able to login properly in art & write site",""
