@@ -11,6 +11,7 @@ import{PaymentPage} from '../pages/manageworkpayment.page';
 import{CheckoutStripe} from '../pages/checkoutstripe.page';
 import{UploadArtWorkPage} from '../pages/artworkupload.page';
 import{ArtWorkReviewPage} from '../pages/artworkreview.page';
+import { allure } from "allure-playwright";
 
 const logindata =JSON.parse(JSON.stringify(require('../testdata/logindata.json')));
 const manageworkdata =JSON.parse(JSON.stringify(require('../testdata/manageworkbasicinfodata.json')));
@@ -31,6 +32,7 @@ test.describe("Art & Writing Site", ()=>{
 
   test("Verify user able to login properly in art & write site",async({page})=>{ 
     test.slow();
+    await allure.parentSuite("End to End Submit Art Work");
     const myaccountPage = new MyAccountPage(page);
     await myaccountPage.verifyMyAccountDashboard();
     await page.screenshot({ path: './screenshots/MyAccountDashboardPage.png', fullPage: true });

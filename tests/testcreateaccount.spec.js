@@ -3,6 +3,7 @@ import { test, expect } from '@playwright/test';
 import {SignInPage} from '../pages/signin.page';
 import{CreateAccountPage} from '../pages/createaccount.page';
 import{MyAccountPage} from '../pages/myaccount.page';
+import { allure } from "allure-playwright";
 
 
 const logindata =JSON.parse(JSON.stringify(require('../testdata/logindata.json')));
@@ -15,6 +16,7 @@ test.describe("Art & Writing Site", ()=>{
       
     test("Verify Create Account Sign Up Page Display Properly",async({page})=>{
       test.slow();  
+      await allure.parentSuite("End to End Create New user Account");
       const loginPage = new SignInPage(page);
       await loginPage.signPage();
       await loginPage.waitForSignInPageLoad();

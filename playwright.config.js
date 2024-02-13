@@ -1,5 +1,6 @@
 import { defineConfig, devices } from '@playwright/test';
 
+
 export default defineConfig({
   // Look for test files in the "tests" directory, relative to this configuration file.
   testDir: 'tests',
@@ -19,9 +20,11 @@ export default defineConfig({
 
   // Reporter to use
   //reporter: 'html',
+  
   reporter: [
     [
       "allure-playwright",
+      
     ],
   ],
   
@@ -35,7 +38,7 @@ export default defineConfig({
 
     // Collect trace when retrying the failed test.
     trace: 'on-first-retry',
-    screenshot: 'only-on-failure',
+    screenshot: 'on',
     video: 'on'
   },
   // Configure projects for major browsers.

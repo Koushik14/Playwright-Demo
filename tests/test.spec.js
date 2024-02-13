@@ -1,5 +1,5 @@
 const { chromium } = require('playwright');
-import { test, expect } from '@playwright/test';
+import {test,expect } from '@playwright/test';
 import {SignInPage} from '../pages/signin.page';
 import{MyAccountPage} from '../pages/myaccount.page';
 import{ManageWorkPage} from '../pages/managework.page';
@@ -9,10 +9,10 @@ import{WorkReviewPage} from '../pages/manageworkreview.page';
 import{PayNowDialog} from '../pages/manageworkpaynow.dialog';
 import{PaymentPage} from '../pages/manageworkpayment.page';
 import{CheckoutStripe} from '../pages/checkoutstripe.page';
+import { allure } from "allure-playwright";
 import * as csv from 'fs'
 import{path} from 'path';
 import { parse } from 'csv-parse/sync';
-
 
 const logindata =JSON.parse(JSON.stringify(require('../testdata/logindata.json')));
 const manageworkdata =JSON.parse(JSON.stringify(require('../testdata/manageworkbasicinfodata.json')));
@@ -24,10 +24,9 @@ const records = parse(csv.readFileSync('./testdata/logindata.csv','utf-8'), {
   skip_empty_lines: true
 });
 
-
 test.describe("Art & Writing Site", ()=>{
-
-  test.beforeEach(async({page,isMobile})=>{
+ 
+  test.beforeEach(async({page,isMobile})=>{  
     const loginPage = new SignInPage(page);
     await loginPage.signPage();
     await page.screenshot({ path: './screenshots/SignInPage.png', fullPage: true });
@@ -47,8 +46,9 @@ test.describe("Art & Writing Site", ()=>{
     
   })
 
-  test("Verify user able to login properly in art & write site",async({page})=>{ 
+  test.only("Verify user able to login properly in art & write site",async({page})=>{ 
     test.slow();
+    await allure.parentSuite("End to End Submit Writing Work");
     const myaccountPage = new MyAccountPage(page);
     await myaccountPage.verifyMyAccountDashboard();
     await page.screenshot({ path: './screenshots/MyAccountDashboardPage.png', fullPage: true });
