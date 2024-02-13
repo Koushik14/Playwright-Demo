@@ -49,9 +49,7 @@ test.describe("Art & Writing Site", ()=>{
     })
   
     test.skip("Verify user able to search any work properly",async({page})=>{ 
-      test.slow();
-      const session = await page.context().newCDPSession(page);
-      await session.send("Performance.enable");
+      test.slow(); 
       await allure.parentSuite("Search Work");
       const searchPage = new SearchPage(page);
       await searchPage.verifySearchPageDisplay();
