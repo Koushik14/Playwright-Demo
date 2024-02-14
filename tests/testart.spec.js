@@ -12,6 +12,8 @@ import{CheckoutStripe} from '../pages/checkoutstripe.page';
 import{UploadArtWorkPage} from '../pages/artworkupload.page';
 import{ArtWorkReviewPage} from '../pages/artworkreview.page';
 import { allure } from "allure-playwright";
+import * as csv from 'fs';
+import { parse } from 'csv-parse/sync';
 
 const logindata =JSON.parse(JSON.stringify(require('../testdata/logindata.json')));
 const manageworkdata =JSON.parse(JSON.stringify(require('../testdata/manageworkbasicinfodata.json')));
@@ -19,14 +21,30 @@ const uploadworkdata =JSON.parse(JSON.stringify(require('../testdata/manageworku
 const checkoutdata =JSON.parse(JSON.stringify(require('../testdata/checkoutdata.json')));
 const artworkdata =JSON.parse(JSON.stringify(require('../testdata/artworkuploadworkdata.json')));
 
+const loginCSV = parse(csv.readFileSync('./testdata/logindata.csv','utf-8'), {
+  columns: true,
+  skip_empty_lines: true
+});
+
 
 test.describe("Art & Writing Site", ()=>{
 
-  test.beforeEach(async({page})=>{
+  test.beforeEach(async({page,isMobile})=>{
     const loginPage = new SignInPage(page);
     await loginPage.signPage();
     await page.screenshot({ path: './screenshots/SignInPage.png', fullPage: true });
-    await loginPage.login(logindata.userName,logindata.Password);
+    //await loginPage.login(logindata.userName,logindata.Password);
+    //Login using CSV Data File
+    //console.log(isMobile)
+    for(const csvLoginData of loginCSV){
+      if(isMobile==false){
+        await loginPage.login(csvLoginData.userName,csvLoginData.Password);  
+      }
+      else{
+        await loginPage.login(csvLoginData.userNameMobile,csvLoginData.PasswordMobile);
+      }
+      
+    }
     
   })
 

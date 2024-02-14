@@ -14,11 +14,13 @@ exports.PaymentPage = class PaymentPage {
     }
 
     async waitForPaymentPageLoad(){
+        await this.page.waitForLoadState('networkidle');
         await this.page.waitForURL('**/payment?selectedEntry=**');
         await expect(this.manageWorkSelectPaymentWork).toBeHidden();
     }
 
     async verifyPaymentPage(){
+        await this.page.waitForLoadState('networkidle');
         await expect(this.manageWorkPaymentPageHeaderText).toBeVisible();
         await expect(this.manageWorkPaymentPageWorks).toBeVisible();
         

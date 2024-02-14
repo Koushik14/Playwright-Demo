@@ -19,7 +19,7 @@ const manageworkdata =JSON.parse(JSON.stringify(require('../testdata/manageworkb
 const uploadworkdata =JSON.parse(JSON.stringify(require('../testdata/manageworkuploadworkdata.json')));
 const checkoutdata =JSON.parse(JSON.stringify(require('../testdata/checkoutdata.json')));
 
-const records = parse(csv.readFileSync('./testdata/logindata.csv','utf-8'), {
+const loginCSV = parse(csv.readFileSync('./testdata/logindata.csv','utf-8'), {
   columns: true,
   skip_empty_lines: true
 });
@@ -34,12 +34,12 @@ test.describe("Art & Writing Site", ()=>{
     //await loginPage.login(logindata.userName,logindata.Password);
     //Login using CSV Data File
     //console.log(isMobile)
-    for(const record of records){
+    for(const csvLoginData of loginCSV){
       if(isMobile==false){
-        await loginPage.login(record.userName,record.Password);  
+        await loginPage.login(csvLoginData.userName,csvLoginData.Password);  
       }
       else{
-        await loginPage.login(record.userNameMobile,record.PasswordMobile);
+        await loginPage.login(csvLoginData.userNameMobile,csvLoginData.PasswordMobile);
       }
       
     }
