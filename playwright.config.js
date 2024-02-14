@@ -44,7 +44,7 @@ export default defineConfig({
   // Configure projects for major browsers.
   projects: [
     {
-      name: 'chromium',
+      name: 'Art & Write Automation Test Suite - Chrome Browser',
       use: {
         ...devices['Desktop Chrome'],
       },

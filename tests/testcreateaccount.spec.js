@@ -16,7 +16,7 @@ test.describe("Art & Writing Site", ()=>{
       
     test("Verify Create Account Sign Up Page Display Properly",async({page})=>{
       test.slow();  
-      await allure.parentSuite("End to End Create New user Account");
+      
       const loginPage = new SignInPage(page);
       await loginPage.signPage();
       await loginPage.waitForSignInPageLoad();

@@ -48,7 +48,7 @@ test.describe("Art & Writing Site", ()=>{
 
   test("Verify user able to login properly in art & write site",async({page})=>{ 
     test.slow();
-    await allure.parentSuite("End to End Submit Writing Work");
+    
     const myaccountPage = new MyAccountPage(page);
     await myaccountPage.verifyMyAccountDashboard();
     await page.screenshot({ path: './screenshots/MyAccountDashboardPage.png', fullPage: true });

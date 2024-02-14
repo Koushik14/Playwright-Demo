@@ -48,9 +48,9 @@ test.describe("Art & Writing Site", ()=>{
       
     })
   
-    test.skip("Verify user able to search any work properly",async({page})=>{ 
+    test("Verify user able to search any work properly",async({page})=>{ 
       test.slow(); 
-      await allure.parentSuite("Search Work");
+      
       const searchPage = new SearchPage(page);
       await searchPage.verifySearchPageDisplay();
       await searchPage.searchComboSelect(searchdata.searchValue);
