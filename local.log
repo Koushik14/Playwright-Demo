@@ -1,13 +1,13 @@
 "" 
 
-Tue Feb 13 2024 10:58:34:785 GMT+0530 (India Standard Time) -- Binary semantic version is v8.9.2
-Tue Feb 13 2024 10:58:34:786 GMT+0530 (India Standard Time) -- Setting output as extra verbose with request parsing
-Tue Feb 13 2024 10:58:37:351 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+Mon Feb 19 2024 16:06:51:391 GMT+0530 (India Standard Time) -- Binary semantic version is v8.9.2
+Mon Feb 19 2024 16:06:51:391 GMT+0530 (India Standard Time) -- Setting output as extra verbose with request parsing
+Mon Feb 19 2024 16:06:52:929 GMT+0530 (India Standard Time) -- Connecting to BrowserStack using WebSocket protocol...
+Mon Feb 19 2024 16:06:52:929 GMT+0530 (India Standard Time) -- Platform supports WebSocket connections.
 
-Tue Feb 13 2024 10:58:37:355 GMT+0530 (India Standard Time) -- Connecting to BrowserStack using WebSocket protocol...
-Tue Feb 13 2024 10:58:37:356 GMT+0530 (India Standard Time) -- Platform supports WebSocket connections.
+Mon Feb 19 2024 16:06:52:961 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
 
-Tue Feb 13 2024 10:58:37:458 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+Mon Feb 19 2024 16:06:53:39 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
 
 
-Tue Feb 13 2024 10:58:37:870 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Mon Feb 19 2024 16:06:54:61 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454

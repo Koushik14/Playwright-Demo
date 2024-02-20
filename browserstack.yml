@@ -21,7 +21,9 @@ buildName: browserstack build
 # Read more about buildIdentifiers here -> https://www.browserstack.com/docs/automate/selenium/organize-tests
 buildIdentifier: '#${BUILD_NUMBER}' # Supports strings along with either/both ${expression}
 idleTimeout: 300
-
+browserStackLocalOptions:
+  forcelocal: true
+  
 # =======================================
 # Platforms (Browsers / Devices to test)
 # =======================================
@@ -36,9 +38,19 @@ platforms:
     # osVersion: 10
   #   browserName: Edge
   #   browserVersion: latest
-  - deviceName: Samsung Galaxy S23 Ultra
-    browserName: Chromium
-    osVersion: 13.0
+  # - deviceName: Samsung Galaxy S21 Ultra
+  #   osVersion: 11.0
+  #   browserName: chrome
+  #   deviceOrientation: portrait
+  # - deviceName: iPhone 15 Pro
+  #   osVersion: 17
+  #   browserName: safari
+  #   deviceOrientation: portrait
+  # - deviceName: Samsung Galaxy S23 Ultra
+  #   osVersion: 13.0
+  #   browserName: chrome
+  #   deviceOrientation: portrait
+    
   # - deviceName: iPhone 13
   #   osVersion: 15
   #   browserName: Safari

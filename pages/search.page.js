@@ -40,7 +40,7 @@ exports.SearchPage = class SearchPage{
     }
 
     async searchLoadingDisplay(){
-        await expect(this.searchResultLoadingButton).toBeHidden();
+        await expect(this.searchResultLoadingButton,'Some Issues In Search Pagination Load').toBeHidden();
         return true;
     }
 

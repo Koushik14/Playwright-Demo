@@ -51,6 +51,10 @@ test.describe("Art & Writing Site", ()=>{
     test("Verify user able to search any work properly",async({page})=>{ 
       test.slow(); 
       
+      //Create a new connection to an existing CDP session to enable performance Metrics
+      //const session = await page.context().newCDPSession(page);
+      //To tell the CDPsession to record performance metrics.
+      //await session.send("Performance.enable");
       const searchPage = new SearchPage(page);
       await searchPage.verifySearchPageDisplay();
       await searchPage.searchComboSelect(searchdata.searchValue);
@@ -67,12 +71,14 @@ test.describe("Art & Writing Site", ()=>{
         searchIconDisplay= await searchPage.searchLoadingDisplay();
         console.log("From While Loop Search value :", searchIconDisplay);
         console.log(seachText2);
+        // let performanceMetrics = await session.send("Performance.getMetrics")
+        // console.log(performanceMetrics.metrics)
         //await page.screenshot({ path: './screenshots/SearchResultPage.png', fullPage: true });
       }
  
-    //   console.log("=============CDP Performance Metrics===============")
-    //   let performanceMetrics = await session.send("Performance.getMetrics")
-    //   console.log(performanceMetrics.metrics)
+      // console.log("=============CDP Performance Metrics===============")
+      // let performanceMetrics = await session.send("Performance.getMetrics")
+      // console.log(performanceMetrics.metrics)
       //await page.screenshot({ path: './screenshots/SearchResultPage.png', fullPage: true });
           
     })

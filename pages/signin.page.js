@@ -9,7 +9,7 @@ exports.SignInPage = class SignInPage {
       
       this.usernameTxtbox = page.getByPlaceholder(signObjLocator.usernameTextbox);
       this.passwordTxtbox = page.getByPlaceholder(signObjLocator.passwordTextbox);
-      this.loginButton = page.getByRole('button', { name: signObjLocator.signinButton });
+      this.loginButton = page.getByRole('button', { name: signObjLocator.signinButton, exact:true });
       //this.creatAccountLink=page.getByLabel(signObjLocator.creatAccountLink);
       this.creatAccountLink=page.getByText(signObjLocator.creatAccountLink);
       
@@ -26,6 +26,7 @@ exports.SignInPage = class SignInPage {
       
       await this.usernameTxtbox.fill(username);
       await this.passwordTxtbox.fill(password);
+      await this.page.keyboard.press('Tab'); 
       await this.loginButton.click();
       
       await this.page.waitForNavigation();

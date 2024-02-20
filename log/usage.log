@@ -304,3 +304,1365 @@
 2024-02-13 10:59:39 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/212adf481edce247872799e27b79441cd95317e4
 2024-02-13 10:59:41 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
 2024-02-13 10:59:45 - [32minfo[39m: Local binary stopped
+2024-02-14 11:31:08 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 11:31:09 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 11:31:14 - [32minfo[39m: Local binary started successfully
+2024-02-14 11:31:15 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 11:31:17 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 11:32:10 - [32minfo[39m: Visit https://observability.browserstack.com/builds/o0silfvtt2bjgplcpmdjidug6y6zfswfp5zpou0n to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 11:32:10 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/c716173f9f3d7e83419a820d7eed3caa4c163618
+2024-02-14 11:32:14 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 11:32:17 - [32minfo[39m: Local binary stopped
+2024-02-14 11:37:35 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 11:37:35 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 11:37:39 - [32minfo[39m: Local binary started successfully
+2024-02-14 11:37:41 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 11:37:43 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 11:38:34 - [32minfo[39m: Visit https://observability.browserstack.com/builds/u8wxzkawvtu2cyiotr98osz58lddbvfulzq2btmn to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 11:38:34 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/8f5954961b05af8568e565a50f5121a0489cbaf6
+2024-02-14 11:38:36 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 11:38:39 - [32minfo[39m: Local binary stopped
+2024-02-14 11:47:45 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 11:47:45 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 11:47:49 - [32minfo[39m: Local binary started successfully
+2024-02-14 11:47:51 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 11:47:53 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 11:49:43 - [32minfo[39m: Visit https://observability.browserstack.com/builds/lfhaqfg6zbme4wmmcwv9wujmxj8ixkjazi0iq0hl to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 11:49:44 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/e245e3b2868bbf9020c65833699123918485b0b0
+2024-02-14 11:49:45 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 11:49:48 - [32minfo[39m: Local binary stopped
+2024-02-14 12:34:55 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 12:34:55 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 12:35:00 - [32minfo[39m: Local binary started successfully
+2024-02-14 12:35:02 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 12:35:04 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 12:35:53 - [32minfo[39m: Visit https://observability.browserstack.com/builds/vap9ujnmr0t2epd7ngu82edezvyquydkfbpugmvq to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 12:35:54 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/1602b70883d6c10cd0b019eb615d49a46c0d022f
+2024-02-14 12:35:56 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 12:35:59 - [32minfo[39m: Local binary stopped
+2024-02-14 12:39:51 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 12:39:51 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 12:39:57 - [32minfo[39m: Local binary started successfully
+2024-02-14 12:39:58 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 12:40:00 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 12:40:52 - [32minfo[39m: Visit https://observability.browserstack.com/builds/9t3k6sl9r6e6hbx9ijem5wspdiyt0zvzgvvxp0ku to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 12:40:53 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/d629dc44947d69052dc5f0e061f7c06a9a8315dc
+2024-02-14 12:40:55 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 12:40:58 - [32minfo[39m: Local binary stopped
+2024-02-14 12:47:29 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 12:47:29 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 12:47:33 - [32minfo[39m: Local binary started successfully
+2024-02-14 12:47:35 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 12:47:37 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 12:49:15 - [32minfo[39m: Visit https://observability.browserstack.com/builds/uqvymddo9ct5ohbjqc2dhtrtl0n8ssqvjif5iluf to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 12:49:15 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/caab7380105e27285438ecade4e9e93bf4fed0f4
+2024-02-14 12:49:17 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 12:49:20 - [32minfo[39m: Local binary stopped
+2024-02-14 12:50:15 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 12:50:15 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 12:50:19 - [32minfo[39m: Local binary started successfully
+2024-02-14 12:50:21 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 12:50:23 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 12:51:14 - [32minfo[39m: Visit https://observability.browserstack.com/builds/2nk0kdfl5tceedxnqrnkfyqgnvdtx1e5vewdq6jc to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 12:51:14 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/56226bc58023ed959057daec9df44286af749111
+2024-02-14 12:51:16 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 12:51:19 - [32minfo[39m: Local binary stopped
+2024-02-14 12:51:36 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 12:51:36 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 12:51:40 - [32minfo[39m: Local binary started successfully
+2024-02-14 12:51:42 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 12:51:43 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 12:52:35 - [32minfo[39m: Visit https://observability.browserstack.com/builds/efca795qnrr7xgshhyhsdswf1rf0ezh19gewjwls to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 12:52:35 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/e1fe9712eb92f69b9c08dfff102f43d9a8d02d69
+2024-02-14 12:52:38 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 12:52:41 - [32minfo[39m: Local binary stopped
+2024-02-14 13:00:36 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 13:00:36 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 13:00:40 - [32minfo[39m: Local binary started successfully
+2024-02-14 13:00:42 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 13:00:44 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 13:01:39 - [32minfo[39m: Visit https://observability.browserstack.com/builds/epofqsadffekx8tgq0rlujgcepfw6off1jjgfh2j to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 13:01:41 - [32minfo[39m: Local binary stopped
+2024-02-14 13:04:52 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 13:04:52 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 13:04:56 - [32minfo[39m: Local binary started successfully
+2024-02-14 13:04:57 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 13:04:59 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 13:05:53 - [32minfo[39m: Visit https://observability.browserstack.com/builds/9ypx4ybxkw3mjhdiesqufen0kdu3lp0an3zgqvyq to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 13:05:55 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/747f9e09ba6e9859b92e570e34b2a222856904a6
+2024-02-14 13:05:56 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 13:06:00 - [32minfo[39m: Local binary stopped
+2024-02-14 13:09:44 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 13:09:44 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 13:09:48 - [32minfo[39m: Local binary started successfully
+2024-02-14 13:09:49 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 13:09:51 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 13:10:43 - [32minfo[39m: Visit https://observability.browserstack.com/builds/2w4y6dzcrtpasr7wndqysors31jjuklpkfjdwmft to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 13:10:43 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/36c0155c0c6406775cc63a1d813c5f6534e07208
+2024-02-14 13:10:45 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 13:10:48 - [32minfo[39m: Local binary stopped
+2024-02-14 13:11:24 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 13:11:24 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 13:11:28 - [32minfo[39m: Local binary started successfully
+2024-02-14 13:11:29 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 13:11:31 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 13:12:24 - [32minfo[39m: Visit https://observability.browserstack.com/builds/lhlq9yjsdmhwfnc39cs5262em08stc23zb8gnjos to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 13:12:25 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/207eb24c7215e828dab8c7c58353312986960478
+2024-02-14 13:12:27 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 13:12:30 - [32minfo[39m: Local binary stopped
+2024-02-14 14:16:59 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 14:16:59 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 14:17:04 - [32minfo[39m: Local binary started successfully
+2024-02-14 14:17:06 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 14:17:07 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 14:17:59 - [32minfo[39m: Visit https://observability.browserstack.com/builds/uohzudffwlo0ltjvlhanlsux6uaksmnlccvlqidl to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 14:17:59 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/ca56a8c56ab3ddc9250b97e315a98b95f8370fdc
+2024-02-14 14:18:02 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 14:18:05 - [32minfo[39m: Local binary stopped
+2024-02-14 14:56:42 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 14:56:42 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 14:56:46 - [32minfo[39m: Local binary started successfully
+2024-02-14 14:56:47 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 14:56:49 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 15:00:17 - [32minfo[39m: Visit https://observability.browserstack.com/builds/7rtupv7j8bxozlwqm53iz8frp9lal2mjpohv3j5s to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 15:00:17 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/c1303367d633b1ad175b376ed904acb29bef8cc7
+2024-02-14 15:00:19 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 15:00:22 - [32minfo[39m: Local binary stopped
+2024-02-14 15:07:15 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 15:07:15 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 15:07:19 - [32minfo[39m: Local binary started successfully
+2024-02-14 15:07:27 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 15:07:29 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 15:09:14 - [32minfo[39m: Local binary stopped
+2024-02-14 15:09:15 - [32minfo[39m: Visit https://observability.browserstack.com/builds/3ufjq2hx4ftfpalhbz7otjaxokrctpv1iril2ftq to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 15:09:18 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/609a4f1aa0f7833a731241bfb4b3d0301722b53e
+2024-02-14 15:09:19 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 15:10:53 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 15:10:53 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 15:10:57 - [32minfo[39m: Local binary started successfully
+2024-02-14 15:10:58 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 15:11:00 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 15:13:51 - [32minfo[39m: Local binary stopped
+2024-02-14 15:13:52 - [32minfo[39m: Visit https://observability.browserstack.com/builds/1pdwu3dtzn9pa0rvh2wm6w8jjmyyc63jiavvojij to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 15:17:17 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 15:17:17 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 15:17:21 - [32minfo[39m: Local binary started successfully
+2024-02-14 15:17:23 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 15:17:25 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 15:18:18 - [32minfo[39m: Visit https://observability.browserstack.com/builds/jokxaoxqjd3dekdznwnh9h48jafxyokenpethgja to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 15:18:19 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/2c17250783f67fa74e87a569de531547672ea164
+2024-02-14 15:18:21 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 15:18:24 - [32minfo[39m: Local binary stopped
+2024-02-14 15:32:50 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 15:32:50 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 15:32:54 - [32minfo[39m: Local binary started successfully
+2024-02-14 15:32:56 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 15:32:58 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 15:33:12 - [32minfo[39m: Visit https://observability.browserstack.com/builds/lnlnsfhpflpovrzfuiwh3ouyxdxyp79zimn4hihd to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 15:33:14 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 15:33:53 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 15:33:53 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 15:33:57 - [32minfo[39m: Local binary started successfully
+2024-02-14 15:33:59 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 15:34:00 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 15:34:53 - [32minfo[39m: Visit https://observability.browserstack.com/builds/3fjrzzagctsu2s53rzpkf90r4gxueeh8i8g7ggzi to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 15:34:54 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/78abfece902d14a484a762b18466bd36e8bc54a3
+2024-02-14 15:34:56 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 15:34:59 - [32minfo[39m: Local binary stopped
+2024-02-14 15:37:51 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 15:37:51 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 15:37:56 - [32minfo[39m: Local binary started successfully
+2024-02-14 15:37:58 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 15:37:59 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 15:38:51 - [32minfo[39m: Visit https://observability.browserstack.com/builds/yteabnw583c6wj45hcbohvpc28gbjhiqlaquxp8l to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 15:38:52 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/93c7b2c3d1279a46f20eafa87ba18a6005e36d5c
+2024-02-14 15:38:54 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 15:38:57 - [32minfo[39m: Local binary stopped
+2024-02-14 16:03:04 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 16:03:04 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 16:03:09 - [32minfo[39m: Local binary started successfully
+2024-02-14 16:03:11 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 16:03:13 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 16:03:20 - [32minfo[39m: Visit https://observability.browserstack.com/builds/aoribpujgtdigeaoq3d4gwzevuteebaijqol1bxw to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 16:03:23 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 16:03:26 - [32minfo[39m: Local binary stopped
+2024-02-14 16:03:58 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 16:03:58 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 16:04:02 - [32minfo[39m: Local binary started successfully
+2024-02-14 16:04:03 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 16:04:05 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 16:04:24 - [32minfo[39m: Visit https://observability.browserstack.com/builds/g9fd78zsh1qj1nnrrrfdmxmve04ywsapwkcxchy3 to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 16:04:26 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 16:04:29 - [32minfo[39m: Local binary stopped
+2024-02-14 16:05:25 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 16:05:25 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 16:05:29 - [32minfo[39m: Local binary started successfully
+2024-02-14 16:05:30 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 16:05:32 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 16:05:51 - [32minfo[39m: Visit https://observability.browserstack.com/builds/l6n8igb9rthj66cvdts0judfhkswec37vcdmt2ka to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 16:05:53 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 16:05:56 - [32minfo[39m: Local binary stopped
+2024-02-14 16:06:42 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 16:06:42 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 16:06:46 - [32minfo[39m: Local binary started successfully
+2024-02-14 16:06:48 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 16:06:50 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 16:07:46 - [32minfo[39m: Visit https://observability.browserstack.com/builds/6s9bg4mvwozqlkg5dwxr25dhq4wiytpit5wpkulb to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 16:07:47 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a218dec15e7ffafd033e4f4fd931d6500430199a
+2024-02-14 16:07:49 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 16:07:52 - [32minfo[39m: Local binary stopped
+2024-02-14 16:18:42 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 16:18:42 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 16:18:45 - [32minfo[39m: Local binary started successfully
+2024-02-14 16:18:47 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 16:18:49 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 16:19:03 - [32minfo[39m: Visit https://observability.browserstack.com/builds/d3892kbtdk4mbidmv3k3kzqzogiilmzhtmcqnsdi to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 16:19:06 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 16:19:08 - [32minfo[39m: Local binary stopped
+2024-02-14 16:21:02 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 16:21:02 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 16:21:07 - [32minfo[39m: Local binary started successfully
+2024-02-14 16:21:08 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 16:21:10 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 16:21:23 - [32minfo[39m: Visit https://observability.browserstack.com/builds/y0muthqgwjrq1x3xikx2pgllmtp0py9dh4iwldho to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 16:21:26 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 16:21:28 - [32minfo[39m: Local binary stopped
+2024-02-14 16:22:05 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 16:22:05 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 16:22:09 - [32minfo[39m: Local binary started successfully
+2024-02-14 16:22:10 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 16:22:12 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 16:22:26 - [32minfo[39m: Visit https://observability.browserstack.com/builds/qqpnlvhqzyt5n8km0hoq2yhzmwinmel2scyf8ura to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 16:22:28 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 16:22:33 - [32minfo[39m: Local binary stopped
+2024-02-14 16:39:17 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-14 16:39:17 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-14 16:39:21 - [32minfo[39m: Local binary started successfully
+2024-02-14 16:39:23 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-14 16:39:24 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-14 16:40:16 - [32minfo[39m: Visit https://observability.browserstack.com/builds/liyr5khsknc85nnpfs1zt50ellfqrdphiiqeitsu to view build report, insights, and many more debugging information all at one place!
+
+2024-02-14 16:40:17 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/86620bc5bf4a33a7bbb3d443e2163e0b6eca23ec
+2024-02-14 16:40:18 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-14 16:40:22 - [32minfo[39m: Local binary stopped
+2024-02-15 11:10:37 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 11:10:37 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 11:10:43 - [32minfo[39m: Local binary started successfully
+2024-02-15 11:10:44 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 11:10:46 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 11:12:29 - [32minfo[39m: Visit https://observability.browserstack.com/builds/giaid42pgdnyjiq2rfwwplil8ygtjjunkjovtphr to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 11:12:30 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/16764f75edaad8e99610cd2f9b476a3798b96c7c
+2024-02-15 11:12:31 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 11:12:36 - [32minfo[39m: Local binary stopped
+2024-02-15 11:23:41 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 11:23:41 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 11:23:46 - [32minfo[39m: Local binary started successfully
+2024-02-15 11:23:47 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 11:23:49 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 11:24:06 - [32minfo[39m: Visit https://observability.browserstack.com/builds/uhfq6duzpogsy44avixw2mg7gj55tqxs0bnc35hs to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 11:24:09 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 11:24:12 - [32minfo[39m: Local binary stopped
+2024-02-15 11:33:04 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 11:33:04 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 11:33:09 - [32minfo[39m: Local binary started successfully
+2024-02-15 11:33:11 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 11:33:13 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 11:33:57 - [32minfo[39m: Visit https://observability.browserstack.com/builds/uuuajzoqzza8k8qduozc8rigirczas6lrroilxsy to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 11:33:58 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/9c836003b595f55dd9abbe217dd1ece2c4c8f157
+2024-02-15 11:34:00 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 11:34:03 - [32minfo[39m: Local binary stopped
+2024-02-15 12:12:33 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 12:12:34 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 12:12:39 - [32minfo[39m: Local binary started successfully
+2024-02-15 12:12:40 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 12:12:43 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 12:12:55 - [32minfo[39m: Visit https://observability.browserstack.com/builds/kdhwxnmxoexizh4q9vdijm1jm1ppvfimpgfvhwma to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 12:12:57 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 12:13:00 - [32minfo[39m: Local binary stopped
+2024-02-15 12:14:29 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 12:14:29 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 12:14:36 - [32minfo[39m: Local binary started successfully
+2024-02-15 12:14:37 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 12:14:39 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 12:14:53 - [32minfo[39m: Visit https://observability.browserstack.com/builds/zgro84oldzcyolwavfpdruqir3px2mc1gkc8kssr to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 12:14:55 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 12:14:59 - [32minfo[39m: Local binary stopped
+2024-02-15 12:16:59 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 12:16:59 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 12:17:04 - [32minfo[39m: Local binary started successfully
+2024-02-15 12:17:06 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 12:17:08 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 12:17:19 - [32minfo[39m: Visit https://observability.browserstack.com/builds/hbwekdvrucdqi6rroaf2k3d2xjwmgfj8uypi2vbo to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 12:17:21 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 12:17:25 - [32minfo[39m: Local binary stopped
+2024-02-15 12:18:59 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 12:18:59 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 12:19:06 - [32minfo[39m: Local binary started successfully
+2024-02-15 12:19:08 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 12:19:10 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 12:19:19 - [32minfo[39m: Visit https://observability.browserstack.com/builds/yhmmnxcyx1remhdfwwbgmcstd9xnaqd86eoypot0 to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 12:19:22 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 12:19:25 - [32minfo[39m: Local binary stopped
+2024-02-15 12:23:25 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 12:23:25 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 12:23:32 - [32minfo[39m: Local binary started successfully
+2024-02-15 12:23:33 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 12:23:35 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 12:23:44 - [32minfo[39m: Visit https://observability.browserstack.com/builds/d3kj0mve2arb0tawpzqnprzubenlpmdrud7sv0pw to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 12:23:46 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 12:23:50 - [32minfo[39m: Local binary stopped
+2024-02-15 12:24:53 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 12:24:53 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 12:24:59 - [32minfo[39m: Local binary started successfully
+2024-02-15 12:25:01 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 12:25:03 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 12:25:12 - [32minfo[39m: Visit https://observability.browserstack.com/builds/lzckw2vjqmupkp7zmloke6hbbndhkilyzgxbinop to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 12:25:15 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 12:25:18 - [32minfo[39m: Local binary stopped
+2024-02-15 12:27:11 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 12:27:11 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 12:27:18 - [32minfo[39m: Local binary started successfully
+2024-02-15 12:27:19 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 12:27:22 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 12:28:18 - [32minfo[39m: Visit https://observability.browserstack.com/builds/mk5p56rxsjf8bny5fw1q7n9d2q1frca656ynk72p to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 12:28:19 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/3e0073560dd619fbd935c22fd45f7a5407a94be9
+2024-02-15 12:28:21 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 12:28:24 - [32minfo[39m: Local binary stopped
+2024-02-15 12:28:44 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 12:28:45 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 12:28:51 - [32minfo[39m: Local binary started successfully
+2024-02-15 12:28:53 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 12:28:57 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 12:30:00 - [32minfo[39m: Visit https://observability.browserstack.com/builds/jou9m1ivfujlvvyzvjypxqecj7frsh1mf4aixxst to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 12:30:01 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/8688b96e76efb04f131990858fa80ad3c6fb9ed4
+2024-02-15 12:30:03 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 12:30:06 - [32minfo[39m: Local binary stopped
+2024-02-15 13:06:44 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 13:06:44 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 13:06:50 - [32minfo[39m: Local binary started successfully
+2024-02-15 13:06:51 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 13:06:53 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 13:07:26 - [32minfo[39m: Visit https://observability.browserstack.com/builds/bfezynwchxbu3cbzzoxj2nx0gxmfz1if1tiomrpj to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 13:07:27 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/f8825f272f186e31afa71ca22a3d5dadffc6ced2
+2024-02-15 13:07:28 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 13:07:32 - [32minfo[39m: Local binary stopped
+2024-02-15 13:10:17 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 13:10:17 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 13:10:23 - [32minfo[39m: Local binary started successfully
+2024-02-15 13:10:24 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 13:10:26 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 13:10:57 - [32minfo[39m: Visit https://observability.browserstack.com/builds/tqjbgpmjv9glixffxfnzn9uiiriimuko9cujxpb5 to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 13:10:57 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/c05861b52714ca54b021213e0b07e7db12ff7689
+2024-02-15 13:10:59 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 13:11:02 - [32minfo[39m: Local binary stopped
+2024-02-15 13:14:26 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 13:14:26 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 13:14:33 - [32minfo[39m: Local binary started successfully
+2024-02-15 13:14:34 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 13:14:36 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 13:15:09 - [32minfo[39m: Visit https://observability.browserstack.com/builds/klezgk3elne6dk02bxl1xn1lysbzcakjvftobrji to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 13:15:10 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a9492858c04387d747a4a5a4a6c48f4a32fd6af8
+2024-02-15 13:15:11 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 13:15:15 - [32minfo[39m: Local binary stopped
+2024-02-15 13:18:12 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 13:18:12 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 13:18:16 - [32minfo[39m: Local binary started successfully
+2024-02-15 13:18:18 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 13:18:20 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 13:18:51 - [32minfo[39m: Visit https://observability.browserstack.com/builds/ohtv4owjp5rsdnuaiekvmxrfmeg8w7dlrhaeqlxj to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 13:18:51 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/c6e4c05f6a412b40aa41c39e72e652843929518b
+2024-02-15 13:18:53 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 13:18:56 - [32minfo[39m: Local binary stopped
+2024-02-15 13:20:31 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 13:20:32 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 13:20:37 - [32minfo[39m: Local binary started successfully
+2024-02-15 13:20:38 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 13:20:40 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 13:21:16 - [32minfo[39m: Visit https://observability.browserstack.com/builds/fv9f9gvtcq38lfpxroli0uas4t4tosf2stclblfo to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 13:21:17 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/34b720bdeb2f8221c0624178c1c89e9df76cfcbe
+2024-02-15 13:21:19 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 13:21:22 - [32minfo[39m: Local binary stopped
+2024-02-15 13:25:04 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 13:25:05 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 13:25:10 - [32minfo[39m: Local binary started successfully
+2024-02-15 13:25:13 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 13:25:17 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 13:26:22 - [32minfo[39m: Visit https://observability.browserstack.com/builds/ji3bq8vd2ggiwmb8ob1e6o8wer9kb7hem985dhbf to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 13:26:22 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/24219c4a58c0561d0a864481a9b95def84013aea
+2024-02-15 13:26:25 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 13:26:28 - [32minfo[39m: Local binary stopped
+2024-02-15 13:27:33 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 13:27:33 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 13:27:40 - [32minfo[39m: Local binary started successfully
+2024-02-15 13:27:41 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 13:27:43 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 13:28:47 - [32minfo[39m: Visit https://observability.browserstack.com/builds/kybjy3p1j2cbdiimgts2t4xrs4je9jiprpxwjg2w to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 13:28:48 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/627a04faf6e32dd3b06308731248a54f00f70e5b
+2024-02-15 13:28:49 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 13:28:52 - [32minfo[39m: Local binary stopped
+2024-02-15 13:30:09 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 13:30:09 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 13:30:13 - [32minfo[39m: Local binary started successfully
+2024-02-15 13:30:15 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 13:30:17 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 13:31:15 - [32minfo[39m: Visit https://observability.browserstack.com/builds/4yg0l6gwpzisna86xos1e8p4rwsgpll75waabhbd to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 13:31:15 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/52f405f7d43042701a23e4b5b6b91673fc201098
+2024-02-15 13:31:17 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 13:31:20 - [32minfo[39m: Local binary stopped
+2024-02-15 13:32:08 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 13:32:08 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 13:32:12 - [32minfo[39m: Local binary started successfully
+2024-02-15 13:32:13 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 13:32:15 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 13:33:11 - [32minfo[39m: Visit https://observability.browserstack.com/builds/9jicdujk4qvbwtsxmi6xt2pyb4pd6vbzdzc5cxat to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 13:33:12 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/85f26e44782742ceadff3b173d0e1f044c8e188a
+2024-02-15 13:33:14 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 13:33:17 - [32minfo[39m: Local binary stopped
+2024-02-15 13:36:33 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 13:36:33 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 13:36:37 - [32minfo[39m: Local binary started successfully
+2024-02-15 13:36:39 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 13:36:40 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 13:37:39 - [32minfo[39m: Visit https://observability.browserstack.com/builds/blk502zmybbmwfnoshkjaqinwn0gal5grostaikz to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 13:37:39 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/e6e84b583522038cca01a7548d596f93cace7097
+2024-02-15 13:37:41 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 13:37:44 - [32minfo[39m: Local binary stopped
+2024-02-15 13:39:47 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 13:39:47 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 13:39:51 - [32minfo[39m: Local binary started successfully
+2024-02-15 13:39:53 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 13:39:54 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 13:40:10 - [32minfo[39m: Visit https://observability.browserstack.com/builds/oldgkqizdm1yy3h8klxct6wlrvtavbaopgrxfiws to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 13:40:13 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 13:40:16 - [32minfo[39m: Local binary stopped
+2024-02-15 13:40:48 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 13:40:48 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 13:40:52 - [32minfo[39m: Local binary started successfully
+2024-02-15 13:41:00 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 13:41:01 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 13:41:18 - [32minfo[39m: Visit https://observability.browserstack.com/builds/cllbdrsajewlmtxxv5kr6e2bqklvatd96kspp1fo to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 13:41:21 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 13:41:24 - [32minfo[39m: Local binary stopped
+2024-02-15 13:43:55 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 13:43:56 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 13:43:59 - [32minfo[39m: Local binary started successfully
+2024-02-15 13:44:01 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 13:44:03 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 13:44:18 - [32minfo[39m: Visit https://observability.browserstack.com/builds/njxiozydd6tsx7keh0ygtxjn2snhq15yu2gdeuyi to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 13:44:20 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 13:44:23 - [32minfo[39m: Local binary stopped
+2024-02-15 13:45:03 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 13:45:03 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 13:45:08 - [32minfo[39m: Local binary started successfully
+2024-02-15 13:45:09 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 13:45:11 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 13:45:30 - [32minfo[39m: Visit https://observability.browserstack.com/builds/qax0jxy5mdmvkhdrhsdgnbjmnad5luqg5cgi9kqn to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 13:45:33 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 13:45:36 - [32minfo[39m: Local binary stopped
+2024-02-15 13:48:30 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 13:48:30 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 13:48:34 - [32minfo[39m: Local binary started successfully
+2024-02-15 13:48:36 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 13:48:37 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 13:48:56 - [32minfo[39m: Visit https://observability.browserstack.com/builds/s87ijq78fifljmmoifrofo9cogkodv7v6jnv4tvr to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 13:48:58 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 13:49:01 - [32minfo[39m: Local binary stopped
+2024-02-15 13:50:00 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 13:50:00 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 13:50:04 - [32minfo[39m: Local binary started successfully
+2024-02-15 13:50:06 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 13:50:08 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 13:50:29 - [32minfo[39m: Visit https://observability.browserstack.com/builds/zmhjegltzgu3ciiaxglvh2gfkvkqdnjels8jby9m to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 13:50:31 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 13:50:34 - [32minfo[39m: Local binary stopped
+2024-02-15 13:54:18 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 13:54:18 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 13:54:22 - [32minfo[39m: Local binary started successfully
+2024-02-15 13:54:23 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 13:54:25 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 13:54:46 - [32minfo[39m: Visit https://observability.browserstack.com/builds/omnhhgcescqlrzr8ccodwb6srhai8djcv18gar4b to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 13:54:49 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 13:54:52 - [32minfo[39m: Local binary stopped
+2024-02-15 13:55:42 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 13:55:42 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 13:55:45 - [32minfo[39m: Local binary started successfully
+2024-02-15 13:55:47 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 13:55:49 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 13:56:08 - [32minfo[39m: Visit https://observability.browserstack.com/builds/holjnf67o0wgeb6bhfx6fotxt0jyogfcxawifs9n to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 13:56:10 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 13:56:13 - [32minfo[39m: Local binary stopped
+2024-02-15 13:57:49 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 13:57:49 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 13:57:53 - [32minfo[39m: Local binary started successfully
+2024-02-15 13:57:55 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 13:57:56 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 13:58:13 - [32minfo[39m: Visit https://observability.browserstack.com/builds/wwitii4s1b6evhlxihmqavpfecmokc8s0gzynkc7 to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 13:58:16 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 13:58:19 - [32minfo[39m: Local binary stopped
+2024-02-15 14:00:17 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 14:00:18 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 14:00:21 - [32minfo[39m: Local binary started successfully
+2024-02-15 14:00:23 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 14:00:25 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 14:00:48 - [32minfo[39m: Visit https://observability.browserstack.com/builds/hzpyl7omx3vu9y1qcb4mfptfa6srpngf7dq74lo5 to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 14:00:52 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 14:00:55 - [32minfo[39m: Local binary stopped
+2024-02-15 14:04:35 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 14:04:35 - [31merror[39m: bad indentation of a mapping entry (29:4)
+
+ 26 |   browserType: chromium,
+ 27 |   launchConfig: {
+ 28 |     headless: true,
+ 29 |   },
+---------^
+ 30 | # ================================ ...
+ 31 | # Platforms (Browsers / Devices to ...
+2024-02-15 14:04:35 - [31merror[39m: Error: bad indentation of a mapping entry (29:4)
+
+ 26 |   browserType: chromium,
+ 27 |   launchConfig: {
+ 28 |     headless: true,
+ 29 |   },
+---------^
+ 30 | # ================================ ...
+ 31 | # Platforms (Browsers / Devices to ...
+    at new BrowserStackSetup (D:\PlayWrightV2\Playwright-Demo\node_modules\browserstack-node-sdk\src\helpers\BrowserStackSetup.js:1:8313)
+    at run (D:\PlayWrightV2\Playwright-Demo\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:31563)
+    at Object.OvAtK (D:\PlayWrightV2\Playwright-Demo\node_modules\browserstack-node-sdk\src\bin\runner.js:2:1624)
+    at captureError (D:\PlayWrightV2\Playwright-Demo\node_modules\browserstack-node-sdk\src\bin\runner.js:2:2955)
+    at Object.ETFPK (D:\PlayWrightV2\Playwright-Demo\node_modules\browserstack-node-sdk\src\bin\runner.js:2:12096)
+    at D:\PlayWrightV2\Playwright-Demo\node_modules\browserstack-node-sdk\src\bin\runner.js:2:12312
+    at _.applyBuilderUpdateUsageAndParse (D:\PlayWrightV2\Playwright-Demo\node_modules\yargs\build\index.cjs:1:7435)
+    at _.runCommand (D:\PlayWrightV2\Playwright-Demo\node_modules\yargs\build\index.cjs:1:7078)
+    at [runYargsParserAndExecuteCommands] (D:\PlayWrightV2\Playwright-Demo\node_modules\yargs\build\index.cjs:1:58539)
+    at te.parse (D:\PlayWrightV2\Playwright-Demo\node_modules\yargs\build\index.cjs:1:40478)
+2024-02-15 14:48:36 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 14:48:36 - [31merror[39m: bad indentation of a mapping entry (29:4)
+
+ 26 |   browserType: chromium,
+ 27 |   launchConfig: {
+ 28 |     headless: true,
+ 29 |   },
+---------^
+ 30 | # ================================ ...
+ 31 | # Platforms (Browsers / Devices to ...
+2024-02-15 14:48:36 - [31merror[39m: Error: bad indentation of a mapping entry (29:4)
+
+ 26 |   browserType: chromium,
+ 27 |   launchConfig: {
+ 28 |     headless: true,
+ 29 |   },
+---------^
+ 30 | # ================================ ...
+ 31 | # Platforms (Browsers / Devices to ...
+    at new BrowserStackSetup (D:\PlayWrightV2\Playwright-Demo\node_modules\browserstack-node-sdk\src\helpers\BrowserStackSetup.js:1:8313)
+    at run (D:\PlayWrightV2\Playwright-Demo\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:31563)
+    at Object.OvAtK (D:\PlayWrightV2\Playwright-Demo\node_modules\browserstack-node-sdk\src\bin\runner.js:2:1624)
+    at captureError (D:\PlayWrightV2\Playwright-Demo\node_modules\browserstack-node-sdk\src\bin\runner.js:2:2955)
+    at Object.ETFPK (D:\PlayWrightV2\Playwright-Demo\node_modules\browserstack-node-sdk\src\bin\runner.js:2:12096)
+    at D:\PlayWrightV2\Playwright-Demo\node_modules\browserstack-node-sdk\src\bin\runner.js:2:12312
+    at _.applyBuilderUpdateUsageAndParse (D:\PlayWrightV2\Playwright-Demo\node_modules\yargs\build\index.cjs:1:7435)
+    at _.runCommand (D:\PlayWrightV2\Playwright-Demo\node_modules\yargs\build\index.cjs:1:7078)
+    at [runYargsParserAndExecuteCommands] (D:\PlayWrightV2\Playwright-Demo\node_modules\yargs\build\index.cjs:1:58539)
+    at te.parse (D:\PlayWrightV2\Playwright-Demo\node_modules\yargs\build\index.cjs:1:40478)
+2024-02-15 14:49:05 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 14:49:05 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 14:49:10 - [32minfo[39m: Local binary started successfully
+2024-02-15 14:49:11 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 14:49:13 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 14:49:38 - [32minfo[39m: Visit https://observability.browserstack.com/builds/mj70nrwppntcqeuwlmjtm8c1wvcsb8dmtwxnw2ty to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 14:49:40 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 14:49:43 - [32minfo[39m: Local binary stopped
+2024-02-15 14:58:05 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 14:58:05 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 14:58:09 - [32minfo[39m: Local binary started successfully
+2024-02-15 14:58:11 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 14:58:12 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 14:58:36 - [32minfo[39m: Visit https://observability.browserstack.com/builds/jic0c4wtph0d4pu3xglmizysr2lesm4pkd8rhhl0 to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 14:58:39 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 14:58:42 - [32minfo[39m: Local binary stopped
+2024-02-15 14:59:23 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 14:59:23 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 14:59:27 - [32minfo[39m: Local binary started successfully
+2024-02-15 14:59:28 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 14:59:30 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 14:59:55 - [32minfo[39m: Visit https://observability.browserstack.com/builds/oss7ixyaucnsokx82fuynnrturg0xufiubn2bksf to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 14:59:57 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:00:00 - [32minfo[39m: Local binary stopped
+2024-02-15 15:00:51 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:00:51 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:00:55 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:00:56 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:00:58 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:01:15 - [32minfo[39m: Visit https://observability.browserstack.com/builds/fysn1cw5sycgplgtqbwqnnjq0zx5w0akmy5llnqj to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:01:17 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:01:20 - [32minfo[39m: Local binary stopped
+2024-02-15 15:01:42 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:01:42 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:01:46 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:01:48 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:01:51 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:02:46 - [32minfo[39m: Visit https://observability.browserstack.com/builds/yzprzwdjvmpkrri9kkvufcg5ldqgwudbf7rrurl1 to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:02:47 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/fbbbab6bba9a31794daa1778c45a14eace29f470
+2024-02-15 15:02:49 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:02:52 - [32minfo[39m: Local binary stopped
+2024-02-15 15:05:47 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:05:47 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:05:51 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:05:52 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:05:54 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:06:50 - [32minfo[39m: Visit https://observability.browserstack.com/builds/yofnkxzpw8ednbvlx3mzxuesy4zpzzobil22ybay to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:06:51 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/245c338de5755b20696bc6d7c97f5c92a2e9085f
+2024-02-15 15:06:53 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:06:56 - [32minfo[39m: Local binary stopped
+2024-02-15 15:13:38 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:13:38 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:13:42 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:13:43 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:13:45 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:14:41 - [32minfo[39m: Visit https://observability.browserstack.com/builds/zikyvjlicykuychis0e2272t9jflxsjcfxc1wjir to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:14:42 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/f586c45ed6787b04587192923f2452870348d7c1
+2024-02-15 15:14:44 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:14:46 - [32minfo[39m: Local binary stopped
+2024-02-15 15:15:33 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:15:33 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:15:37 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:15:38 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:15:40 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:15:57 - [32minfo[39m: Visit https://observability.browserstack.com/builds/p3mq5lvohp8hbiri83ypdzgkjl4tcixmjhbcgvk4 to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:15:59 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:16:02 - [32minfo[39m: Local binary stopped
+2024-02-15 15:16:19 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:16:19 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:16:23 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:16:24 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:16:30 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:16:47 - [32minfo[39m: Visit https://observability.browserstack.com/builds/vgsyreso48oe4zadi86nj3ex7zlifx8o5wcqljlv to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:16:49 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:16:52 - [32minfo[39m: Local binary stopped
+2024-02-15 15:17:45 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:17:45 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:17:49 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:17:50 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:17:52 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:18:18 - [32minfo[39m: Visit https://observability.browserstack.com/builds/57zat9wf3gnul9jpwbzkvippy8ctkam6g9horkpe to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:18:21 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:18:24 - [32minfo[39m: Local binary stopped
+2024-02-15 15:20:55 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:20:55 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:20:59 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:21:01 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:21:03 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:21:18 - [32minfo[39m: Visit https://observability.browserstack.com/builds/c4udetkrdeophjnabfgoyttybgsaioagxjsfwaae to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:21:21 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:21:24 - [32minfo[39m: Local binary stopped
+2024-02-15 15:23:39 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:23:39 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:23:43 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:23:44 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:23:46 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:24:02 - [32minfo[39m: Visit https://observability.browserstack.com/builds/zozcg21cnklwecj30safgibkvzqahgaics0nmrvb to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:24:04 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:24:07 - [32minfo[39m: Local binary stopped
+2024-02-15 15:24:25 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:24:25 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:24:30 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:24:31 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:24:33 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:24:44 - [32minfo[39m: Local binary stopped
+2024-02-15 15:24:45 - [32minfo[39m: Visit https://observability.browserstack.com/builds/xvoa2svctjpdxhpefown3mk00d52otzge5sevstc to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:26:00 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:26:00 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:26:03 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:26:05 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:26:07 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:26:28 - [32minfo[39m: Visit https://observability.browserstack.com/builds/laqr28nqjms5ny36vwbkie0azulnn2upejchq38a to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:26:30 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:26:33 - [32minfo[39m: Local binary stopped
+2024-02-15 15:27:02 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:27:02 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:27:06 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:27:08 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:27:10 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:27:26 - [32minfo[39m: Visit https://observability.browserstack.com/builds/sikkblymxzpphkzlizovyvtmvcrn57evhbefaxgx to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:27:28 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:27:31 - [32minfo[39m: Local binary stopped
+2024-02-15 15:28:03 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:28:03 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:28:07 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:28:09 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:28:10 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:28:23 - [32minfo[39m: Visit https://observability.browserstack.com/builds/g3yya219b5ddu0l4ly3rw3cvpa2muckktzv3mw90 to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:28:26 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:28:29 - [32minfo[39m: Local binary stopped
+2024-02-15 15:32:26 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:32:26 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:32:30 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:32:32 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:32:33 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:32:49 - [32minfo[39m: Visit https://observability.browserstack.com/builds/dfszmilwlpkitujyrdjd4t1vdveh7zysmg0mbnxs to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:32:53 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:32:55 - [32minfo[39m: Local binary stopped
+2024-02-15 15:34:53 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:34:53 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:34:57 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:34:59 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:35:01 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:35:19 - [32minfo[39m: Visit https://observability.browserstack.com/builds/ni3yecqghwbn93jyignpfmaczqpgulv1yemghini to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:35:23 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:35:26 - [32minfo[39m: Local binary stopped
+2024-02-15 15:36:23 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:36:23 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:36:27 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:36:28 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:36:30 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:36:55 - [32minfo[39m: Visit https://observability.browserstack.com/builds/9yf6hwfl2avlcqoni17joqulm7lwsiildz3petsh to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:36:58 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:37:01 - [32minfo[39m: Local binary stopped
+2024-02-15 15:43:43 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:43:43 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:43:46 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:43:48 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:43:50 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:44:06 - [32minfo[39m: Visit https://observability.browserstack.com/builds/0tekf7ebly8btopn0qvdv5ny3xbinig8bm51yqsd to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:44:08 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:44:11 - [32minfo[39m: Local binary stopped
+2024-02-15 15:50:46 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:50:47 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:50:51 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:50:52 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:50:54 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:51:17 - [32minfo[39m: Visit https://observability.browserstack.com/builds/ncfze2njp7adcioeswocgoiv89ifdq4b358ljqsm to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:51:19 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:51:23 - [32minfo[39m: Local binary stopped
+2024-02-15 15:52:45 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:52:45 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:52:50 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:52:51 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:52:53 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:53:11 - [32minfo[39m: Visit https://observability.browserstack.com/builds/0l3wvis9iy3odk9u9cu76fvhvkatddtuys6oapls to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:53:14 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:53:17 - [32minfo[39m: Local binary stopped
+2024-02-15 15:54:09 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:54:10 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:54:13 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:54:15 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:54:17 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:54:36 - [32minfo[39m: Visit https://observability.browserstack.com/builds/iodqdtauwx0natkawta8ccmycrf0m3rq3cnsvz3b to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:54:38 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:54:41 - [32minfo[39m: Local binary stopped
+2024-02-15 15:55:46 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 15:55:47 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 15:55:51 - [32minfo[39m: Local binary started successfully
+2024-02-15 15:55:53 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 15:55:54 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 15:56:14 - [32minfo[39m: Visit https://observability.browserstack.com/builds/ze6jveshsrqzfdbu9ysdjdgajzsf0imslx2yrgj8 to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 15:56:17 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 15:56:20 - [32minfo[39m: Local binary stopped
+2024-02-15 16:01:21 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 16:01:21 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 16:01:25 - [32minfo[39m: Local binary started successfully
+2024-02-15 16:01:27 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 16:01:29 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 16:01:56 - [32minfo[39m: Visit https://observability.browserstack.com/builds/dqylrfjn0qznzzvoblyqlx39lnic4roeoptjicwb to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 16:01:58 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 16:02:01 - [32minfo[39m: Local binary stopped
+2024-02-15 16:05:28 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 16:05:28 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 16:05:32 - [32minfo[39m: Local binary started successfully
+2024-02-15 16:05:34 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 16:05:36 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 16:05:58 - [32minfo[39m: Visit https://observability.browserstack.com/builds/d2ojwmavbi1jhneaiskxfvkxhwgmqaqr7lgosffz to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 16:06:01 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 16:06:04 - [32minfo[39m: Local binary stopped
+2024-02-15 16:12:19 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 16:12:19 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 16:12:23 - [32minfo[39m: Local binary started successfully
+2024-02-15 16:12:25 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 16:12:26 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 16:13:21 - [32minfo[39m: Visit https://observability.browserstack.com/builds/z97s9pcdagghmukzpnnhj5weqziwaizmqhy2snfx to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 16:13:22 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/0a6ba6e82bdebeba06b10a0ed6fbec1a1f86f2f2
+2024-02-15 16:13:24 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 16:13:27 - [32minfo[39m: Local binary stopped
+2024-02-15 16:19:41 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 16:19:41 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 16:19:45 - [32minfo[39m: Local binary started successfully
+2024-02-15 16:19:46 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 16:19:48 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 16:19:55 - [32minfo[39m: Visit https://observability.browserstack.com/builds/absne10xrq2ep8fpuw6iaax8bhvf9fpbcitliiwb to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 16:19:57 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 16:20:00 - [32minfo[39m: Local binary stopped
+2024-02-15 16:20:24 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 16:20:24 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 16:20:29 - [32minfo[39m: Local binary started successfully
+2024-02-15 16:20:30 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 16:20:32 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 16:20:49 - [32minfo[39m: Visit https://observability.browserstack.com/builds/1qlsblixun1hbrtmx5rqjttnt0qtxol7oyol8wxo to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 16:20:51 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 16:20:54 - [32minfo[39m: Local binary stopped
+2024-02-15 16:21:22 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 16:21:22 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 16:21:26 - [32minfo[39m: Local binary started successfully
+2024-02-15 16:21:28 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 16:21:30 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 16:21:47 - [32minfo[39m: Visit https://observability.browserstack.com/builds/bvexrvtyobchlkdu9njt92wfsoikclxkklnrqbvl to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 16:21:49 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 16:21:52 - [32minfo[39m: Local binary stopped
+2024-02-15 16:23:53 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 16:23:53 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 16:23:57 - [32minfo[39m: Local binary started successfully
+2024-02-15 16:23:59 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 16:24:01 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 16:24:17 - [32minfo[39m: Visit https://observability.browserstack.com/builds/xcpi8dnm6uwtc3bszinotmzygizwd5qqx2rfw5np to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 16:24:20 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 16:24:23 - [32minfo[39m: Local binary stopped
+2024-02-15 16:26:56 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 16:26:56 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 16:27:00 - [32minfo[39m: Local binary started successfully
+2024-02-15 16:27:01 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 16:27:03 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 16:27:20 - [32minfo[39m: Visit https://observability.browserstack.com/builds/9ffasynnaq624zaz321fuujknahjh3e1ebsspevp to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 16:27:22 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 16:27:25 - [32minfo[39m: Local binary stopped
+2024-02-15 16:32:00 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 16:32:00 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 16:32:04 - [32minfo[39m: Local binary started successfully
+2024-02-15 16:32:06 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 16:32:08 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 16:32:24 - [32minfo[39m: Visit https://observability.browserstack.com/builds/j8hhlhqgcqknp0qgjzjady9wa3cizatskkjrmmps to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 16:32:26 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 16:32:29 - [32minfo[39m: Local binary stopped
+2024-02-15 16:35:35 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 16:35:35 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 16:35:39 - [32minfo[39m: Local binary started successfully
+2024-02-15 16:35:41 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 16:35:43 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 16:35:58 - [32minfo[39m: Visit https://observability.browserstack.com/builds/if6yhw3vg65lzusnm2ja8py1v6fpb8clxwk4t0a6 to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 16:36:00 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 16:36:03 - [32minfo[39m: Local binary stopped
+2024-02-15 16:38:33 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 16:38:33 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 16:38:37 - [32minfo[39m: Local binary started successfully
+2024-02-15 16:38:38 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 16:38:44 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 16:39:40 - [32minfo[39m: Visit https://observability.browserstack.com/builds/mkuzdb8hitnnlbdythibvttzb2j3gbdoutupjr8m to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 16:39:42 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/3d2aab063048f251152630dd45267b6d4ab2ca81
+2024-02-15 16:39:43 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 16:39:46 - [32minfo[39m: Local binary stopped
+2024-02-15 16:40:35 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 16:40:35 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 16:40:39 - [32minfo[39m: Local binary started successfully
+2024-02-15 16:40:41 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 16:40:42 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 16:41:38 - [32minfo[39m: Visit https://observability.browserstack.com/builds/inpnqgz4ljy8rtoahrs2e3pfdmefmutf3qcsdy65 to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 16:41:40 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/e7d378126be2ded69cde682925845f5ea94045f8
+2024-02-15 16:41:41 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 16:41:44 - [32minfo[39m: Local binary stopped
+2024-02-15 16:43:20 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 16:43:20 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 16:43:25 - [32minfo[39m: Local binary started successfully
+2024-02-15 16:43:26 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 16:43:28 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 16:43:44 - [32minfo[39m: Visit https://observability.browserstack.com/builds/1ldbrgawymhjx1nsm8ftqpudcdbvyeu9vdgyh7as to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 16:43:47 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 16:43:50 - [32minfo[39m: Local binary stopped
+2024-02-15 16:44:20 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 16:44:20 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 16:44:24 - [32minfo[39m: Local binary started successfully
+2024-02-15 16:44:25 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 16:44:27 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 16:44:40 - [32minfo[39m: Visit https://observability.browserstack.com/builds/kjtg8ob74zhl0sdmucati3emxkagwmjsjljdq3hy to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 16:44:43 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 16:44:46 - [32minfo[39m: Local binary stopped
+2024-02-15 16:45:34 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 16:45:34 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 16:45:38 - [32minfo[39m: Local binary started successfully
+2024-02-15 16:45:39 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 16:45:41 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 16:46:11 - [32minfo[39m: Visit https://observability.browserstack.com/builds/cdd6ivugsgetr3la1tuqikicbbrtfexbaekaxexf to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 16:46:14 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 16:46:17 - [32minfo[39m: Local binary stopped
+2024-02-15 16:49:40 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 16:49:40 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 16:49:44 - [32minfo[39m: Local binary started successfully
+2024-02-15 16:49:45 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 16:49:47 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 16:50:15 - [32minfo[39m: Visit https://observability.browserstack.com/builds/30gy1jb7axtvqsu6ji9fe9rvc4mf2qrcpri2hvss to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 16:50:17 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 16:50:20 - [32minfo[39m: Local binary stopped
+2024-02-15 16:51:33 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 16:51:33 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 16:51:36 - [32minfo[39m: Local binary started successfully
+2024-02-15 16:51:38 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 16:51:40 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 16:52:08 - [32minfo[39m: Visit https://observability.browserstack.com/builds/fac1micviw2isirs63fzfmvdjneq8mmfr5mbd3o5 to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 16:52:10 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 16:52:13 - [32minfo[39m: Local binary stopped
+2024-02-15 16:55:40 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 16:55:40 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 16:55:43 - [32minfo[39m: Local binary started successfully
+2024-02-15 16:55:45 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 16:55:47 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 16:56:03 - [32minfo[39m: Visit https://observability.browserstack.com/builds/outnohqucsjg4gtroqwpnhvylyk4r0fzjypvqrfi to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 16:56:06 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 16:56:09 - [32minfo[39m: Local binary stopped
+2024-02-15 16:57:11 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 16:57:11 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 16:57:15 - [32minfo[39m: Local binary started successfully
+2024-02-15 16:57:17 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 16:57:18 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 16:57:34 - [32minfo[39m: Visit https://observability.browserstack.com/builds/j29cntkj2sluvcrvuimguqswgzupz5zfmf58oszv to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 16:57:36 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 16:57:39 - [32minfo[39m: Local binary stopped
+2024-02-15 17:01:07 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 17:01:07 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 17:01:11 - [32minfo[39m: Local binary started successfully
+2024-02-15 17:01:13 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 17:01:15 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 17:01:43 - [32minfo[39m: Visit https://observability.browserstack.com/builds/qhf9l9g4adb92xdz5dfa1mrvsllqimcmpwudn4t0 to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 17:01:46 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 17:01:49 - [32minfo[39m: Local binary stopped
+2024-02-15 17:04:08 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 17:04:08 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 17:04:12 - [32minfo[39m: Local binary started successfully
+2024-02-15 17:04:14 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 17:04:16 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 17:04:42 - [32minfo[39m: Visit https://observability.browserstack.com/builds/nctfjrxkeetrdptmylrdk5fnm3kzznawzynqachr to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 17:04:45 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 17:04:48 - [32minfo[39m: Local binary stopped
+2024-02-15 17:07:34 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 17:07:34 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 17:07:40 - [32minfo[39m: Local binary started successfully
+2024-02-15 17:07:42 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 17:07:44 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 17:08:19 - [32minfo[39m: Visit https://observability.browserstack.com/builds/ylj7tdsxlngo2fimsjrw2c8kuyorz5g92qxeswgh to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 17:08:21 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 17:08:24 - [32minfo[39m: Local binary stopped
+2024-02-15 19:25:10 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 19:25:10 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 19:25:16 - [32minfo[39m: Local binary started successfully
+2024-02-15 19:25:18 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 19:25:21 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 19:25:55 - [32minfo[39m: Visit https://observability.browserstack.com/builds/nzd5stsffirplvdemjpz5jobeoswfhtuxuw2dejq to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 19:25:58 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 19:26:01 - [32minfo[39m: Local binary stopped
+2024-02-15 19:26:33 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-15 19:26:33 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-15 19:26:38 - [32minfo[39m: Local binary started successfully
+2024-02-15 19:26:40 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-15 19:26:42 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-15 19:27:16 - [32minfo[39m: Visit https://observability.browserstack.com/builds/w3fiofkrbxxyordi93xh5ya7anrothme5hxlva76 to view build report, insights, and many more debugging information all at one place!
+
+2024-02-15 19:27:18 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-15 19:27:22 - [32minfo[39m: Local binary stopped
+2024-02-16 14:45:52 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-16 14:45:52 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-16 14:45:57 - [32minfo[39m: Local binary started successfully
+2024-02-16 14:45:59 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-16 14:46:00 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-16 14:47:02 - [32minfo[39m: Visit https://observability.browserstack.com/builds/kah4njgmdtwwkgf9lkjpagrmxpgcifyoofer9ohz to view build report, insights, and many more debugging information all at one place!
+
+2024-02-16 14:47:05 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-16 14:47:08 - [32minfo[39m: Local binary stopped
+2024-02-16 14:47:49 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-16 14:47:49 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-16 14:47:53 - [32minfo[39m: Local binary started successfully
+2024-02-16 14:47:56 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-16 14:47:57 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-16 14:49:07 - [32minfo[39m: Visit https://observability.browserstack.com/builds/voqu7appflezr9dhwr5k0azxdt3zb7pktlnki4bd to view build report, insights, and many more debugging information all at one place!
+
+2024-02-16 14:49:09 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-16 14:49:12 - [32minfo[39m: Local binary stopped
+2024-02-19 11:11:05 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 11:11:05 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 11:11:13 - [32minfo[39m: Local binary started successfully
+2024-02-19 11:11:14 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 11:11:17 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 11:12:25 - [32minfo[39m: Visit https://observability.browserstack.com/builds/vigmeud8r5dzokbtpqfxm0rlniqm0gavpk6rloop to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 11:12:28 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 11:12:32 - [32minfo[39m: Local binary stopped
+2024-02-19 11:20:26 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 11:20:26 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 11:20:32 - [32minfo[39m: Local binary started successfully
+2024-02-19 11:20:33 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 11:20:35 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 11:21:41 - [32minfo[39m: Visit https://observability.browserstack.com/builds/wyh7xlb5mqpnuhmkpmulxknfisyqc7rooqynh1de to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 11:21:44 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 11:21:48 - [32minfo[39m: Local binary stopped
+2024-02-19 11:25:53 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 11:25:53 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 11:25:59 - [32minfo[39m: Local binary started successfully
+2024-02-19 11:26:00 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 11:26:01 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 11:26:42 - [32minfo[39m: Visit https://observability.browserstack.com/builds/rftslomjxg5cyxpbwjn0y3zar0ei9tncb5obiivg to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 11:26:45 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 11:26:49 - [32minfo[39m: Local binary stopped
+2024-02-19 11:33:53 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 11:33:53 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 11:33:57 - [32minfo[39m: Local binary started successfully
+2024-02-19 11:33:59 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 11:34:00 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 11:34:40 - [32minfo[39m: Visit https://observability.browserstack.com/builds/g88uqyq2kmskj0sptppm97hvy2we3szdcgsxh1ut to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 11:34:43 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 11:34:46 - [32minfo[39m: Local binary stopped
+2024-02-19 11:58:51 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 11:58:51 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 11:58:56 - [32minfo[39m: Local binary started successfully
+2024-02-19 11:58:58 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 11:58:59 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 11:59:46 - [32minfo[39m: Visit https://observability.browserstack.com/builds/uq3fahezd9mttg7bubsjgwxo9q8kztuxhxi5udfq to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 11:59:48 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 11:59:51 - [32minfo[39m: Local binary stopped
+2024-02-19 12:02:33 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 12:02:33 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 12:02:37 - [32minfo[39m: Local binary started successfully
+2024-02-19 12:02:38 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 12:02:39 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 12:03:32 - [32minfo[39m: Visit https://observability.browserstack.com/builds/qsfz5umcbv4umldr5xnnn3jp65euzkztdetnj6m8 to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 12:03:34 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 12:03:37 - [32minfo[39m: Local binary stopped
+2024-02-19 12:14:28 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 12:14:28 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 12:14:33 - [32minfo[39m: Local binary started successfully
+2024-02-19 12:14:34 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 12:14:35 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 12:15:20 - [32minfo[39m: Visit https://observability.browserstack.com/builds/m6yjtpjxmlpoavnynfh9nczpurmhgqcvevjdcxbs to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 12:15:23 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 12:15:26 - [32minfo[39m: Local binary stopped
+2024-02-19 12:42:31 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 12:42:31 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 12:42:35 - [32minfo[39m: Local binary started successfully
+2024-02-19 12:42:36 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 12:42:38 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 12:42:56 - [32minfo[39m: Visit https://observability.browserstack.com/builds/ihdeqhyoncmsz9k2cxkmqxy1oscp141turzoocx6 to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 12:42:59 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 12:43:02 - [32minfo[39m: Local binary stopped
+2024-02-19 12:43:42 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 12:43:42 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 12:43:45 - [32minfo[39m: Local binary started successfully
+2024-02-19 12:43:46 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 12:43:48 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 12:44:06 - [32minfo[39m: Visit https://observability.browserstack.com/builds/rek273xoxsrzgglkb8mbwseiyqsbdd8v13njmwhk to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 12:44:09 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 12:44:12 - [32minfo[39m: Local binary stopped
+2024-02-19 12:44:47 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 12:44:47 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 12:44:51 - [32minfo[39m: Local binary started successfully
+2024-02-19 12:44:52 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 12:44:53 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 12:45:08 - [32minfo[39m: Visit https://observability.browserstack.com/builds/r4dfy6lac2aqsn6wwu9u9syye8lziy6jdlwduy7w to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 12:45:12 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 12:45:15 - [32minfo[39m: Local binary stopped
+2024-02-19 12:47:45 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 12:47:45 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 12:47:48 - [32minfo[39m: Local binary started successfully
+2024-02-19 12:47:50 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 12:47:51 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 12:48:37 - [32minfo[39m: Visit https://observability.browserstack.com/builds/zvu8flk5kjs9aev1qe41renyb9mdr5fgyxqbzl34 to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 12:48:40 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 12:48:43 - [32minfo[39m: Local binary stopped
+2024-02-19 12:49:38 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 12:49:39 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 12:49:43 - [32minfo[39m: Local binary started successfully
+2024-02-19 12:49:44 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 12:49:46 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 12:50:05 - [32minfo[39m: Visit https://observability.browserstack.com/builds/d8ycxygrvp8karnocwlz4q4o8wdpzsc5lhr6vygz to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 12:50:07 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 12:50:10 - [32minfo[39m: Local binary stopped
+2024-02-19 12:58:56 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 12:58:56 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 12:59:02 - [32minfo[39m: Local binary started successfully
+2024-02-19 12:59:03 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 12:59:04 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 12:59:52 - [32minfo[39m: Visit https://observability.browserstack.com/builds/cgxyayu6bbcegyojyimrq1i7rf88xphk5nweb5p2 to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 12:59:55 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 12:59:58 - [32minfo[39m: Local binary stopped
+2024-02-19 13:14:20 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 13:14:20 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 13:14:24 - [32minfo[39m: Local binary started successfully
+2024-02-19 13:14:25 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 13:14:26 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 13:14:48 - [32minfo[39m: Visit https://observability.browserstack.com/builds/rpc7d7vuiuehcqwoi64xbtyhisbepdnpee6hln5h to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 13:14:51 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 13:14:54 - [32minfo[39m: Local binary stopped
+2024-02-19 13:15:25 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 13:15:25 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 13:15:28 - [32minfo[39m: Local binary started successfully
+2024-02-19 13:15:29 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 13:15:31 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 13:15:53 - [32minfo[39m: Visit https://observability.browserstack.com/builds/tqlueyo3gvqvbijiorylbemyo7kzspglskbsw5zq to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 13:15:55 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 13:15:59 - [32minfo[39m: Local binary stopped
+2024-02-19 13:23:04 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 13:23:04 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 13:23:10 - [32minfo[39m: Local binary started successfully
+2024-02-19 13:23:11 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 13:23:12 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 13:23:30 - [32minfo[39m: Visit https://observability.browserstack.com/builds/rkzysmq3dvd7onbi2plnan51ioaokoyvg3j9grap to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 13:23:33 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 13:23:36 - [32minfo[39m: Local binary stopped
+2024-02-19 13:25:12 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 13:25:12 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 13:25:16 - [32minfo[39m: Local binary started successfully
+2024-02-19 13:25:17 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 13:25:20 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 13:25:33 - [32minfo[39m: Visit https://observability.browserstack.com/builds/ki2rdzwty51jjaypqsk8ni9zdgobt0hzxd34mte6 to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 13:25:37 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 13:25:40 - [32minfo[39m: Local binary stopped
+2024-02-19 13:26:06 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 13:26:06 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 13:26:09 - [32minfo[39m: Local binary started successfully
+2024-02-19 13:26:10 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 13:26:12 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 13:26:25 - [32minfo[39m: Visit https://observability.browserstack.com/builds/nl6nxa67ytkggpczpa4bmjzoc9ydv8dmmagldvil to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 13:26:28 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 13:26:31 - [32minfo[39m: Local binary stopped
+2024-02-19 15:05:30 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 15:05:30 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 15:05:35 - [32minfo[39m: Local binary started successfully
+2024-02-19 15:05:36 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 15:05:38 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 15:05:56 - [32minfo[39m: Visit https://observability.browserstack.com/builds/yaxukglr0qndtkuotbtjzt7hjcy0a9kvyv01uinb to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 15:05:59 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 15:06:02 - [32minfo[39m: Local binary stopped
+2024-02-19 15:07:42 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 15:07:43 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 15:07:47 - [32minfo[39m: Local binary started successfully
+2024-02-19 15:07:48 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 15:07:49 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 15:08:16 - [32minfo[39m: Visit https://observability.browserstack.com/builds/ygaylxuunqapk1kmzdeh7sy557yzz5hz12li663b to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 15:08:19 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 15:08:22 - [32minfo[39m: Local binary stopped
+2024-02-19 15:11:10 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 15:11:10 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 15:11:14 - [32minfo[39m: Local binary started successfully
+2024-02-19 15:11:15 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 15:11:16 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 15:11:42 - [32minfo[39m: Visit https://observability.browserstack.com/builds/tyemuda1qmplmkm1dbsuyxijitktn01bbvrjuadu to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 15:11:44 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 15:11:47 - [32minfo[39m: Local binary stopped
+2024-02-19 15:12:58 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 15:12:58 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 15:13:02 - [32minfo[39m: Local binary started successfully
+2024-02-19 15:13:03 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 15:13:04 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 15:13:25 - [32minfo[39m: Visit https://observability.browserstack.com/builds/ej6xff3kiayy6ylpu9uggn5hcddfwy7cd2r1cqfg to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 15:13:28 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 15:13:31 - [32minfo[39m: Local binary stopped
+2024-02-19 15:19:57 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 15:19:57 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 15:20:01 - [32minfo[39m: Local binary started successfully
+2024-02-19 15:20:02 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 15:20:03 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 15:20:36 - [32minfo[39m: Visit https://observability.browserstack.com/builds/dtn3xkdvrwxgjm7uc8qyilh5b0yo5mnruaqgkn8f to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 15:20:39 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 15:20:42 - [32minfo[39m: Local binary stopped
+2024-02-19 15:26:22 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 15:26:22 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 15:26:26 - [32minfo[39m: Local binary started successfully
+2024-02-19 15:26:28 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 15:26:29 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 15:26:36 - [32minfo[39m: Visit https://observability.browserstack.com/builds/wpufnfomjjjyn2titwclxbuwurjpjrftug6d1fno to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 15:26:39 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 15:26:42 - [32minfo[39m: Local binary stopped
+2024-02-19 15:27:31 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 15:27:31 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 15:27:35 - [32minfo[39m: Local binary started successfully
+2024-02-19 15:27:36 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 15:27:37 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 15:27:53 - [32minfo[39m: Visit https://observability.browserstack.com/builds/luowtq1fpic85rwwahvw3apc43hyfzwtxanrluln to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 15:27:56 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 15:27:59 - [32minfo[39m: Local binary stopped
+2024-02-19 15:29:20 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 15:29:20 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 15:29:24 - [32minfo[39m: Local binary started successfully
+2024-02-19 15:29:25 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 15:29:27 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 15:29:54 - [32minfo[39m: Visit https://observability.browserstack.com/builds/3ru50eaddxfzs72in1ydr4ayxjjbbsjpni2wxwjv to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 15:29:56 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 15:29:59 - [32minfo[39m: Local binary stopped
+2024-02-19 15:30:25 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 15:30:25 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 15:30:29 - [32minfo[39m: Local binary started successfully
+2024-02-19 15:30:30 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 15:30:31 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 15:30:55 - [32minfo[39m: Visit https://observability.browserstack.com/builds/scm7zowz6kpqfnleomjdfesxt9mrvh1wlttgy4hc to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 15:30:58 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 15:31:01 - [32minfo[39m: Local binary stopped
+2024-02-19 15:32:24 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 15:32:24 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 15:32:28 - [32minfo[39m: Local binary started successfully
+2024-02-19 15:32:29 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 15:32:31 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 15:32:57 - [32minfo[39m: Visit https://observability.browserstack.com/builds/klx0rqfp58fgobp6gqzc1spmgunxuw41700i90bb to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 15:32:59 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 15:33:02 - [32minfo[39m: Local binary stopped
+2024-02-19 15:33:49 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 15:33:49 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 15:33:53 - [32minfo[39m: Local binary started successfully
+2024-02-19 15:33:54 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 15:33:55 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 15:34:14 - [32minfo[39m: Visit https://observability.browserstack.com/builds/tetj7krdcw8znkofllnwncz0cg6rvgl4ms2riruh to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 15:34:17 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 15:34:20 - [32minfo[39m: Local binary stopped
+2024-02-19 15:45:14 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 15:45:15 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 15:45:19 - [32minfo[39m: Local binary started successfully
+2024-02-19 15:45:20 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 15:45:21 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 15:45:38 - [32minfo[39m: Visit https://observability.browserstack.com/builds/ngmilhtwxbblobd3usyyr78plobhzhznlpoyk8pl to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 15:45:40 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 15:45:43 - [32minfo[39m: Local binary stopped
+2024-02-19 15:47:04 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 15:47:04 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 15:47:07 - [32minfo[39m: Local binary started successfully
+2024-02-19 15:47:08 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 15:47:10 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 15:47:25 - [32minfo[39m: Visit https://observability.browserstack.com/builds/lkr6fyth2e16aiitytdo0plgzhptr9so56jlq7su to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 15:47:27 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 15:47:30 - [32minfo[39m: Local binary stopped
+2024-02-19 16:06:49 - [32minfo[39m: Reading configs from D:\PlayWrightV2\Playwright-Demo\browserstack.yml
+2024-02-19 16:06:49 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-02-19 16:06:53 - [32minfo[39m: Local binary started successfully
+2024-02-19 16:06:55 - [32minfo[39m: Getting your playwright config from D:\PlayWrightV2\Playwright-Demo\playwright.config.js
+2024-02-19 16:06:56 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-02-19 16:07:37 - [32minfo[39m: Visit https://observability.browserstack.com/builds/d2gluneqz7evkmtyiff8ixf5fjyzsfm5fasfnujs to view build report, insights, and many more debugging information all at one place!
+
+2024-02-19 16:07:40 - [32minfo[39m: Deleting D:\PlayWrightV2\Playwright-Demo\playwright-browserstack-sdk.config.js
+2024-02-19 16:07:43 - [32minfo[39m: Local binary stopped

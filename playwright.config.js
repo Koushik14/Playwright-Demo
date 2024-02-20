@@ -6,6 +6,7 @@ export default defineConfig({
   testDir: 'tests',
   outputDir: 'test-results',
 
+  
   // Run all tests in parallel.
   //fullyParallel: true,
 
@@ -34,19 +35,22 @@ export default defineConfig({
 
   use: {
     // Base URL to use in actions like `await page.goto('/')`.
-    //baseURL: 'http://127.0.0.1:3000',
+    //baseURL: 'https://dev-portal-stage.artandwriting.org/',
 
     // Collect trace when retrying the failed test.
     trace: 'on-first-retry',
     screenshot: 'on',
-    video: 'on'
-  },
+    video: 'on',
+    acceptDownloads: true,
+    },
   // Configure projects for major browsers.
   projects: [
     {
       name: 'Art & Write Automation Test Suite - Chrome Browser',
       use: {
         ...devices['Desktop Chrome'],
+        // launchOptions: {
+        // args: ['--start-maximized']}
       },
     },
     // {
@@ -54,6 +58,14 @@ export default defineConfig({
     //   use: {
     //     ...devices['iPhone 13'],browserName: 'chromium',
 
+    //   },
+    // },
+    // {
+    //   name: "chromium@Samsung Galaxy S23 Ultra:@browserstack-mobile",
+    //   use: {
+    //     baseURL: "https://www.bstackdemo.com/",
+    //     browserName: "chromium",
+    //     channel: "chrome",
     //   },
     // },
     
