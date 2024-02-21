@@ -36,11 +36,11 @@ exports.SearchPage = class SearchPage{
         //const iconDisplay = await expect(this.searchPageNavigationIcon).toBeVisible();
         //return iconDisplay;
         //await this.page.waitForXPath(this.searchPageNavigationIcon);
-        await expect(this.searchPageNavigationIcon).toBeVisible();
+        await expect(this.searchPageNavigationIcon,'Search Pagination Load Not Working').toBeVisible();
     }
 
     async searchLoadingDisplay(){
-        await expect(this.searchResultLoadingButton,'Some Issues In Search Pagination Load').toBeHidden();
+        await expect(this.searchResultLoadingButton).toBeHidden();
         return true;
     }
 

@@ -21,8 +21,8 @@ exports.PaymentPage = class PaymentPage {
 
     async verifyPaymentPage(){
         await this.page.waitForLoadState('networkidle');
-        await expect(this.manageWorkPaymentPageHeaderText).toBeVisible();
-        await expect(this.manageWorkPaymentPageWorks).toBeVisible();
+        await expect(this.manageWorkPaymentPageHeaderText,'Work Payment Page Header Displayed').toBeVisible();
+        await expect(this.manageWorkPaymentPageWorks,'Work Payment Page Displayed').toBeVisible();
         
     }
 

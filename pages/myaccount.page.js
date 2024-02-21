@@ -23,16 +23,16 @@ constructor(page){
 }
 
 async verifyMyAccountDashboard(){
-    await expect(this.myaccountArtDeadLineHeader).toBeVisible();
-    await expect(this.myaccountWritingDeadLineHeader).toBeVisible();
+    await expect(this.myaccountArtDeadLineHeader,'Art Deadline Content Displayed').toBeVisible();
+    await expect(this.myaccountWritingDeadLineHeader,'Writing Deadline Content Displayed').toBeVisible();
 }
 
 async verifyWorkTab(){
-    await expect(this.dashboardMyAccountWorkTab).toBeVisible();
+    await expect(this.dashboardMyAccountWorkTab,'My Account My Work Dashboard Displayed').toBeVisible();
 }
 
 async verifyPortfolioTab(){
-    await expect(this.dashboardMyAccountPortfolioTab).toBeVisible();
+    await expect(this.dashboardMyAccountPortfolioTab,'My Account Portfolio Dashboard Displayed').toBeVisible();
 }
 
 async clickWorkTab(){
@@ -51,7 +51,7 @@ async clickPortfolioTab(){
 async verifyWritingWork(){
     await this.page.waitForURL('**/work?type=W');
     //await this.page.waitForLoadState('networkidle');
-    await expect(this.myaccountMyWritingWork).toBeVisible({ timeout: 20000 }); 
+    await expect(this.myaccountMyWritingWork,'Submitted Writing Work Displayed').toBeVisible({ timeout: 20000 }); 
    
 }
 

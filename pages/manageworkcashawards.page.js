@@ -12,11 +12,11 @@ exports.CashAwards = class CashAwards {
     }
 
     async verifyCashAwardPage(){
-        await expect(this.manageWorkCashAwardsPageHeaderText).toBeVisible();
-        await expect(this.manageWorkCashAwardsTab).toBeVisible();
-        await expect(this.manageWorkCashAwardsText).toBeVisible();
-        await expect(this.manageWorkCashAwardsLifeAwardText).toBeVisible();
-        await expect(this.manageWorkCashAwardsSaveAndContButton).toBeVisible();
+        await expect(this.manageWorkCashAwardsPageHeaderText,'Work Cash Awards Page Header Content Displayed').toBeVisible();
+        await expect(this.manageWorkCashAwardsTab,'Work Cash Awards Tab Displayed').toBeVisible();
+        await expect(this.manageWorkCashAwardsText,'Work Cash Awards Content Displayed').toBeVisible();
+        await expect(this.manageWorkCashAwardsLifeAwardText,'Work Cash Awards Life Award Content Displayed').toBeVisible();
+        await expect(this.manageWorkCashAwardsSaveAndContButton,'Work Cash Awards Page Save & Continue Button Displayed').toBeVisible();
     }
 
     async waitForCashAwardsPageLoad(){

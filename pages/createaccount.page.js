@@ -35,7 +35,7 @@ exports.CreateAccountPage = class CreateAccountPage {
     }
 
     async verifyMyInfoPage(){
-        await expect(this.createAccountMyInfoPageHeadertext).toBeVisible();
+        await expect(this.createAccountMyInfoPageHeadertext,'Create Account My Information Displayed').toBeVisible();
     }
 
     async clickTeenButton(){
@@ -143,7 +143,7 @@ exports.CreateAccountPage = class CreateAccountPage {
     }
 
     async verifyRegionHeader(){
-        await expect(this.creatAccountSignUpFindRegionTextHeader).toBeVisible();
+        await expect(this.creatAccountSignUpFindRegionTextHeader,'Create Account Sign up Find Region Displayed').toBeVisible();
     }
 
     async selectCountry(enterCountry){

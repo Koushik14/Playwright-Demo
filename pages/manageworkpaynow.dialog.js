@@ -10,8 +10,8 @@ exports.PayNowDialog = class PayNowDialog {
     }
 
     async verifyPayNowDialog(){
-        await expect(this.manageWorkPayNowPageHeaderText).toBeVisible();
-        await expect(this.manageWorkPayNowButton).toBeVisible();
+        await expect(this.manageWorkPayNowPageHeaderText,'Pay Now Dialog Header Displayed').toBeVisible();
+        await expect(this.manageWorkPayNowButton,'Pay Now Button Displayed').toBeVisible();
     }
 
     async clickPayNowButton(){
@@ -19,7 +19,7 @@ exports.PayNowDialog = class PayNowDialog {
     }
 
     async waitForPayNowModalLoad(){
-        await expect(this.manageWorkPayNowModal).toBeVisible();
+        await expect(this.manageWorkPayNowModal,'Pay Now Dialog Modal Displayed').toBeVisible();
         
     }
 }

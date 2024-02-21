@@ -10,8 +10,8 @@ exports.ArtWorkReviewPage = class ArtWorkReviewPage {
     }
 
     async verifyArtWorkReviewPage(){
-        await expect(this.artWorkReviewPageHeaderText).toBeVisible();
-        await expect(this.artWorkReviewTab).toBeVisible();
-        await expect(this.artWorkReviewUploadedArt).toBeVisible();
+        await expect(this.artWorkReviewPageHeaderText,'Art Work Review Page Displayed').toBeVisible();
+        await expect(this.artWorkReviewTab,'Art Work Review Tab Displayed').toBeVisible();
+        await expect(this.artWorkReviewUploadedArt,'Art Work Review Upload Work Displayed').toBeVisible();
     }
 }

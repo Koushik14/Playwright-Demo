@@ -15,12 +15,12 @@ exports.UploadWorkPage = class UploadWorkPage {
     }
 
     async verifyUploadWorkPage(){
-        await expect(this.manageWorkUploadWorkHeaderText).toBeVisible();
-        await expect(this.manageWorkUploadWorkTab).toBeVisible();
+        await expect(this.manageWorkUploadWorkHeaderText,'Work Upload Page Header Content Displayed').toBeVisible();
+        await expect(this.manageWorkUploadWorkTab,'Work Upload Tab Displayed').toBeVisible();
     }
 
     async verifyBlankWritingContent(){
-        await expect(this.manageWorkUploadWorkContentTextbox).toBeVisible();
+        await expect(this.manageWorkUploadWorkContentTextbox,'Blank Writing Content Box Displayed').toBeVisible();
     }
 
     async verifyMinWritingContentMessage(){

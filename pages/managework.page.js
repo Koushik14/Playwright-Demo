@@ -16,8 +16,8 @@ exports.ManageWorkPage = class ManageWorkPage {
     }
 
     async verifyManageWorkPage(){
-        await expect(this.manageWorkHeaderText).toBeVisible();
-        await expect(this.manageWorkBasicInfoTab).toBeVisible();
+        await expect(this.manageWorkHeaderText,'Manage Work Page Header Displayed').toBeVisible();
+        await expect(this.manageWorkBasicInfoTab,'Manage Work Basic Info Tab Displayed').toBeVisible();
     }
 
     async enterWorkTitle(workTitle){

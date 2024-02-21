@@ -14,9 +14,9 @@ exports.WorkReviewPage = class WorkReviewPage {
     }
 
     async verifyReviewWorkPage(){
-        await expect(this.manageWorkReviewPageHeaderText).toBeVisible();
-        await expect(this.manageWorkReviewTab).toBeVisible();
-        await expect(this.manageWorkReviewUploadedWriting).toBeVisible();
+        await expect(this.manageWorkReviewPageHeaderText,'Review Work Page Header Content Displayed').toBeVisible();
+        await expect(this.manageWorkReviewTab,'Review Work Tab Displayed').toBeVisible();
+        await expect(this.manageWorkReviewUploadedWriting,'Uploaded Writing Content Displayed').toBeVisible();
     }
 
     async waitForReviewWorkPageLoad(){

@@ -17,8 +17,8 @@ exports.UploadArtWorkPage = class UploadArtWorkPage {
     }
 
     async verifyArtWorkUploadPage(){
-        await expect(this.artWorkPageHeaderText).toBeVisible();
-        await expect(this.artWorkUploadWorkText).toBeVisible();
+        await expect(this.artWorkPageHeaderText,'Art Work Page Displayed').toBeVisible();
+        await expect(this.artWorkUploadWorkText,'Art Work Upload Page Displayed').toBeVisible();
         await expect(this.artWorkUploadWorkText).toBeVisible();
     }
 
