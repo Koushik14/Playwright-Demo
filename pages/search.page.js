@@ -50,33 +50,28 @@ exports.SearchPage = class SearchPage{
     //     //await this.page.waitForNavigation();
     // }
 
-    // async clickSearchPageNavIcon(){
-    //     const searchNavIcon = await Promise.any([
-    //         this.searchPageNavigationIcon.waitFor().then(()=>true),
-    //         await this.searchPageNavigationIcon.click(),
-            
-    //         // page.getByRole('button', { name: 'Sign In' }).waitFor().then(() => false),
-    //         // page.getByRole('button', { name: 'Save' }).waitFor().then(() => true),
-    //     ]).catch((error) => {
-    //         throw new error ("Missing SearchNav Icon button");
-    //     });
+    async clickSearchPageNavIcon(){
+        const searchNavIcon = await Promise.any([
+            this.searchPageNavigationIcon.waitFor().then(()=>true),
+            await this.searchPageNavigationIcon.click(),
+        ]).catch((error) => {
+            throw new error ("Missing SearchNav Icon button");
+        });
 
-    //     //await expect.soft(this.searchPageNavigationIcon,'Search Pagination Icon Displayed').toBeVisible();
-    //     //await this.page.waitForNavigation();
-    // }
-
-    async clickSearchPageNavIcon() {
-        try {
-            const searchNavIcon = await Promise.any([
-                this.searchPageNavigationIcon.waitFor().then(() => true),
-                this.searchPageNavigationIcon.click(),
-                
-            ]);
-            return searchNavIcon;
-        } catch (error) {
-            throw new Error("Missing SearchNav Icon button");
-        }
     }
+
+    // async clickSearchPageNavIcon() {
+    //     try {
+    //         const searchNavIcon = await Promise.any([
+    //             this.searchPageNavigationIcon.waitFor().then(() => true),
+    //             this.searchPageNavigationIcon.click(),
+                
+    //         ]);
+    //         return searchNavIcon;
+    //     } catch (error) {
+    //         throw new Error("Missing SearchNav Icon button");
+    //     }
+    // }
 
     async searchResultFirstCellDisplay(){
         await this.page.waitForLoadState('networkidle');
