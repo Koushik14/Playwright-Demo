@@ -70,7 +70,7 @@ exports.SearchPage = class SearchPage{
             const searchNavIcon = await Promise.any([
                 this.searchPageNavigationIcon.waitFor().then(() => true),
                 this.searchPageNavigationIcon.click(),
-                await this.page.waitForNavigation(),
+                
             ]);
             return searchNavIcon;
         } catch (error) {
