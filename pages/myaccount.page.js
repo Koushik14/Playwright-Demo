@@ -50,6 +50,7 @@ async clickPortfolioTab(){
 
 async verifyWritingWork(){
     await this.page.waitForURL('**/work?type=W');
+    //await this.page.waitForLoadState('networkidle');
     await expect(this.myaccountMyWritingWork).toBeVisible({ timeout: 20000 }); 
    
 }

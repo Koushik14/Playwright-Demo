@@ -9,7 +9,7 @@
     "myaccountWritingWorkDetails" : "//p[@class='chakra-text css-nmnn8v']",
     "myaccountWritingWorkDisplay" : "//span[@class='css-f8n5zr']",
     "myaccountMessageInfo" : "//div[@class='css-1ie6i2v']",
-    "myaccountMyWritingWork" : "//*[@id=\"tabs-:r2:--tabpanel-0\"]/div[2]/div[2]/div[1]/div[1]/div",
+    "myaccountMyWritingWork" : "//*[@id=\"tabs-:r2:--tabpanel-0\"]//div[@class='css-qssqah']",
     "myaccountArtDeadLineHeader" : "//p[text()='Art Deadline']",
     "myaccountWritingDeadLineHeader" : "//p[text()='Writing Deadline']"
 
