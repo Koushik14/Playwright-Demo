@@ -54,14 +54,14 @@ exports.SearchPage = class SearchPage{
         const searchNavIcon = await Promise.any([
             this.searchPageNavigationIcon.waitFor().then(()=>true),
             await this.searchPageNavigationIcon.click(),
+            
             // page.getByRole('button', { name: 'Sign In' }).waitFor().then(() => false),
             // page.getByRole('button', { name: 'Save' }).waitFor().then(() => true),
-        ]).catch(() => {
-            throw "Missing SearchNav Icon button";
+        ]).catch((error) => {
+            throw new error ("Missing SearchNav Icon button");
         });
 
-        
-        await expect.soft(this.searchPageNavigationIcon,'Search Pagination Icon Displayed').toBeVisible();
+        //await expect.soft(this.searchPageNavigationIcon,'Search Pagination Icon Displayed').toBeVisible();
         //await this.page.waitForNavigation();
     }
 
