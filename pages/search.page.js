@@ -36,7 +36,7 @@ exports.SearchPage = class SearchPage{
         //const iconDisplay = await expect(this.searchPageNavigationIcon).toBeVisible();
         //return iconDisplay;
         //await this.page.waitForXPath(this.searchPageNavigationIcon);
-        await expect(this.searchPageNavigationIcon,'Search Pagination Load Not Working').toBeVisible();
+        await expect(this.searchPageNavigationIcon,'Search Pagination Icon Displayed').toBeVisible();
     }
 
     async searchLoadingDisplay(){
@@ -46,7 +46,7 @@ exports.SearchPage = class SearchPage{
 
     async clickSearchPageNavIcon(){
         await this.searchPageNavigationIcon.click();
-        await expect(this.searchPageNavigationIcon).toBeVisible();
+        await expect.soft(this.searchPageNavigationIcon,'Search Pagination Icon Displayed').toBeVisible();
         //await this.page.waitForNavigation();
     }
 

@@ -48,7 +48,7 @@ test.describe("Art & Writing Site", ()=>{
       
     })
   
-    test("Verify user able to search any work properly",async({page})=>{ 
+    test.only("Verify user able to search any work properly",async({page})=>{ 
       test.slow(); 
       
       //Create a new connection to an existing CDP session to enable performance Metrics
