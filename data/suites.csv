@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"broken","Wed Feb 21 10:19:56 UTC 2024","Wed Feb 21 10:21:28 UTC 2024","92560","Art & Write Automation Test Suite - Chrome Browser","testsearch.spec.js","Art & Writing Site","","","Verify user able to search any work properly",""
+"broken","Wed Feb 21 10:25:49 UTC 2024","Wed Feb 21 10:27:26 UTC 2024","96725","Art & Write Automation Test Suite - Chrome Browser","testsearch.spec.js","Art & Writing Site","","","Verify user able to search any work properly",""
