@@ -1,0 +1,7 @@
+{
+    "workpaneldisplay" : "//div[@class='css-10eaeni']",
+    "workpaneladvanceworkbutton" : "//button[text()='Advance this Work']",
+    "workpaneldonotadvanceworkbutton" : "//button[@class='chakra-button css-wnfew5']",
+    "workpaneladvanceportfolioworkbutton" : "//button[text()='Advance this portfolio']"
+
+}

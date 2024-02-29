@@ -1,0 +1,10 @@
+{
+    "panelentryeliminationroundcontent" : "//div[@class='css-10eaeni'][1]",
+    "panelentryworkroundscontent" : "//div[@class='css-10eaeni'][2]",
+    "panelentryworkroundsfirstrowcell" : "(//td[@class='css-wevup7'])[1]",
+    "panelentryworkroundsrowcount" : "//p[@class='chakra-text css-1fym3gh']",
+    "panelentryclosebutton" : "//button[text()='Close']",
+    "panelentrystartjudgingbutton" : "//button[text()='Start Judging']",
+    "panelentryviewbutton" : "(//button[@class='chakra-button css-1fn3ttt'])[1]" 
+
+}

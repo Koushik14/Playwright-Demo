@@ -1,0 +1,6 @@
+{
+    "judgepanelmanagementheader" : "//p[text()='Judging Panel Management']",
+    "judgetotalpanelscontent" :"//div[@class='css-1fhyhnw']",
+    "judgepanelcontenttable" : "//table[@class='chakra-table striped css-1ch0bse']",
+    "judgepanelcontinuebutton" : "//button[@class='chakra-button css-1gh5ez0']"
+}

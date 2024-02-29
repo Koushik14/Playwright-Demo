@@ -1,0 +1,6 @@
+{
+    "judgemanagementpageheader" : "//p[text()='Judge Management']",
+    "judgecontent" : "//div[@class='css-ayshjd']",
+    "judgeimpersonate" : "//button[@class='chakra-button css-mo01f3']"
+
+}

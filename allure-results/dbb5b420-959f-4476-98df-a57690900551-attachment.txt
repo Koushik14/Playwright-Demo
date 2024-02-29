@@ -1,0 +1,2 @@
+Panel Work Count: 1
+Judge Work Status Dropdown Count: locator('//select[@class=\'chakra-select css-witt4k\']').first()

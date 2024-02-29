@@ -1,0 +1,3 @@
+{
+    "finishpanelbutton" : "//button[text()='Finish Panel']"
+}

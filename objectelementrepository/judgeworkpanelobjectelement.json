@@ -1,0 +1,8 @@
+{
+    "judgeworkpanelcontent" : "//div[@class='css-10eaeni']",
+    "judgeworkpanelheadercontent" : "//div[@class='css-1r5qy9z']",
+    "judgeworkpanelexitbutton" : "//button[text()='Exit']",
+    "judgeworkbutton" : "//td[7]/div/button[text()='Judge Work']",
+    "continuejudgingbutton" : "//button[@class='chakra-button css-hyivba']",
+    "judgeworkcount" : "(//div[@class='css-10eaeni']//span)[1]"
+}

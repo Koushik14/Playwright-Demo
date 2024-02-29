@@ -1,0 +1,2 @@
+Panel Work Count: locator('//p[@class=\'chakra-text css-1fym3gh\']').first()
+Test Page Panel Work Count: locator('//p[@class=\'chakra-text css-1fym3gh\']').first()

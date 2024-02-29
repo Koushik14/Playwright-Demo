@@ -1,0 +1,5 @@
+leftWorkCount 2 rightWorkCount 3
+Total Work Count 1
+click judge Work
+judge work button visible call
+before click while loop 1

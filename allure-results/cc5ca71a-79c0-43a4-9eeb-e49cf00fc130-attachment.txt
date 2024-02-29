@@ -1,0 +1,3 @@
+continue button visible true
+locator name locator('xpath=(//p[@class=\'chakra-text css-z89dvq\'])[1]')
+row count 0

@@ -1,0 +1,7 @@
+{
+    "rateworktext" : "//p[text()='Rate Work']",
+    "workcontent" : "//div[@class='css-eudt8q']",
+    "rateworkcontent" : "//div[@class='css-1kmsedl']",
+    "rateworksaveclosebutton" : "//button[text()='Save and Close']",
+    "rateworknextworkbutton" : "//button[text()='Next Work']"
+}

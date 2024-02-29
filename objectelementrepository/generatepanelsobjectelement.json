@@ -1,0 +1,8 @@
+{
+    "panelcontent" : "//div[@class='css-ayshjd']",
+    "panelcontentcheckbox" : "//span[@class='chakra-checkbox__control css-z3kdmu']",
+    "panelcontentfirstcheckbox" : "//label[@class='chakra-checkbox css-1lc114p']",
+    "panelcontentsecondcheckbox" : "//label[@class='chakra-checkbox css-1u7tis2']",
+    "generatepanelbutton" : "//button[@class='chakra-button css-hyivba']",
+    "panelrowcount" :  "//div[@class='css-k008qs']"
+}

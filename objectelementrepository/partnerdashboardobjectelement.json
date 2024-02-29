@@ -1,0 +1,7 @@
+{
+    "partnerdashboardheadertext" : "//p[text()='Your dashboard is loading. Please wait and do not refresh this screen.']",
+    "partnerdashboardartentriescontent" : "(//div[@class='css-1purrfh'])[1]",
+    "partnerdashboardpanelbutton" : "Panels",
+    "partnerdashboardjudgesbutton" : "Judges",
+    "partnerdashboardmenubutton" : "(//div[@class='css-1z11u91']//button)[1]"
+}

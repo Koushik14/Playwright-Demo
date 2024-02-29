@@ -1,0 +1,10 @@
+{
+    "panelworksjudgedcontent" : "//div[@class='css-1purrfh']",
+    "panelworksjudgednextroundbutton" : "//div[@class='css-1purrfh']",
+    "panelworksjudgedsaveclosebutton" : "//button[@class='chakra-button css-1lgfpsn']",
+    "panelworksjudgedpromotedemotebutton" : "//button[@class='chakra-button css-s5g4d']",
+    "panelworksstatusdropdown" : "//select[@class='chakra-select css-witt4k']",
+    "panelworkfinishbutton" : "//button[text()='Finish']",
+    "panelworkfinishdialogbutton" : "//button[text()='FINISH']"
+    
+}

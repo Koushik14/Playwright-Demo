@@ -28,7 +28,10 @@
   "dependencies": {
   
     
-  "csv-parse": "^5.5.3"
+  "csv-parse": "^5.5.3",
+  
+    
+  "dotenv": "^16.4.5"
   
   },
   

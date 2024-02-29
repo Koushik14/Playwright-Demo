@@ -1,0 +1,9 @@
+{
+    "partneradminheadertext" : "//h2[text()='Info']",
+    "partneradmindatatableheadertext" : "Partner Admins",
+    "partneradmindatatablecontent" : "(//div[@class='css-hw6p5f'])[2]",
+    "partneradminjudgedatatablecontent" : "(//div[@class='css-hw6p5f'])[3]",
+    "partneradminimpersonatedialogbutton" : "Impersonate"
+
+
+}

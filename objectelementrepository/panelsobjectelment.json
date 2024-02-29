@@ -1,0 +1,8 @@
+{
+    "panelmanagementheadertext" : "//p[text()='Art Judging Panel Management']",
+    "panelmanagementcontent" : "//div[@class='css-aeugk9']",
+    "panelawarddistributioncontent" : "//div[@class='css-157oy7l']",
+    "panelawarddistributioncontentfirstcell" : "(//td[@class='css-vyt45b'])[1]",
+    "panelsstartjudginbutton" : "(//button[text()='Start Judging'])",
+    "panelstartjudgingcontinuebutton" : "Continue"
+}

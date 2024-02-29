@@ -45,6 +45,17 @@ exports.SignInPage = class SignInPage {
                 
     }
 
+    async superAdminUserlogin(username, password) {
+      
+      await this.usernameTxtbox.fill(username);
+      await this.passwordTxtbox.fill(password);
+      await this.loginButton.click();
+      
+      await this.page.waitForNavigation();
+      await this.page.waitForURL('**/admin');
+                
+    }
+
     async clickCreateAccountLink(){
       await this.creatAccountLink.click();
 
