@@ -1,0 +1,2 @@
+Panel Work Count: 2
+Advance button Visible false

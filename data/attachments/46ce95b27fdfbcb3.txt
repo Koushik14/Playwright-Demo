@@ -1,0 +1,2 @@
+continue button visible true
+row count 0

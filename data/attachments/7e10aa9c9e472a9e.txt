@@ -1,0 +1,3 @@
+leftWorkCount 0 rightWorkCount 3
+Total Work Count 3
+continue button visible false

@@ -1,0 +1,3 @@
+leftWorkCount 0 rightWorkCount 5
+while loop 4
+while loop 3

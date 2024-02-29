@@ -1,0 +1,6 @@
+leftWorkCount 0 rightWorkCount 7
+before click while loop 7
+while loop 6
+before click while loop 6
+while loop 5
+before click while loop 5

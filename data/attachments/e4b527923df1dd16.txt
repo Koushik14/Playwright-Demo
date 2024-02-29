@@ -1,0 +1,14 @@
+leftWorkCount 0 rightWorkCount 7
+before click while loop 7
+while loop 6
+before click while loop 6
+while loop 5
+before click while loop 5
+while loop 4
+before click while loop 4
+while loop 3
+before click while loop 3
+while loop 2
+before click while loop 2
+while loop 1
+before click while loop 1
