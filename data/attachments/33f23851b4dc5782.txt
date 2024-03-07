@@ -1,2 +1,0 @@
-Panel Work Count: 1
-Advance button Visible [object Promise]

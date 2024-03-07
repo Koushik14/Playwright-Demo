@@ -1,6 +1,0 @@
-leftWorkCount 0 rightWorkCount 13
-before click while loop 13
-while loop 12
-before click while loop 12
-while loop 11
-before click while loop 11

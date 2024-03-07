@@ -1,6 +1,0 @@
-leftWorkCount 2 rightWorkCount 12
-Total Work Count 10
-click judge Work
-before click while loop 10
-while loop 9
-before click while loop 9

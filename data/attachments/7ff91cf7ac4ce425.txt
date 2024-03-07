@@ -1,2 +1,0 @@
-continue button visible true
-test adv work count [object Promise]
