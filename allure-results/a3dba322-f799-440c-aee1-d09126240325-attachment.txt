@@ -1,5 +1,0 @@
-continue button visible true
-locator name 3
-Advance row number 1
-Advance row number 2
-Advance row number 3

@@ -27,6 +27,7 @@ const loginCSV = parse(csv.readFileSync('./testdata/logindata.csv','utf-8'), {
 test.describe("Art & Writing Site", ()=>{
 
    test.beforeEach(async({page,isMobile})=>{
+    test.slow();
       
     const loginPage = new SignInPage(page);
     await loginPage.signPage();
@@ -47,8 +48,9 @@ test.describe("Art & Writing Site", ()=>{
     
   })
 
-  test("Verify user able to login properly in art & write site",async({page},testInfo)=>{ 
+  test.only("Verify user able to login properly in art & write site",async({page},testInfo)=>{ 
     test.slow();
+    //test.setTimeout(120000);
     const myaccountPage = new MyAccountPage(page);
     await myaccountPage.verifyMyAccountDashboard();
     await page.screenshot({ path: './screenshots/MyAccountDashboardPage.png', fullPage: true });

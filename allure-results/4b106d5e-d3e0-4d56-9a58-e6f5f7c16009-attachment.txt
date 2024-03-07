@@ -1,2 +1,0 @@
-leftWorkCount 0 rightWorkCount 7
-Total Work Count 7

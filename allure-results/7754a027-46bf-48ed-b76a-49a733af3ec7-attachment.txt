@@ -1,4 +1,0 @@
-leftWorkCount 1 rightWorkCount 7
-Total Work Count 6
-click judge Work
-judge work button visible call

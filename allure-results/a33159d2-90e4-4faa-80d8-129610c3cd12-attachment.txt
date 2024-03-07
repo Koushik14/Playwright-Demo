@@ -1,2 +1,0 @@
-Total Work Count 0
-continue button visible false

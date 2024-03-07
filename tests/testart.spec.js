@@ -28,6 +28,7 @@ const loginCSV = parse(csv.readFileSync('./testdata/logindata.csv','utf-8'), {
 
 
 test.describe("Art & Writing Site", ()=>{
+  test.slow();
 
   test.beforeEach(async({page,isMobile})=>{
     const loginPage = new SignInPage(page);

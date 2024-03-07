@@ -1,9 +1,0 @@
-continue button visible true
-Advance Work Count 12
-Advance row number 1
-Selected Status Dropdown Value --AdvancedNot Advanced
-Advance row number 2
-Selected Status Dropdown Value --AdvancedNot Advanced
-Advance row number 3
-Selected Status Dropdown Value --AdvancedNot Advanced
-Advance row number 4

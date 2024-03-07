@@ -49,6 +49,7 @@ const loginCSV = parse(csv.readFileSync('./testdata/logindata.csv', 'utf-8'), {
 test.describe("Art & Writing Site", () => {
 
     test.beforeEach(async ({ page, isMobile }) => {
+        test.slow();
         const loginPage = new SignInPage(page);
         await loginPage.signPage();
         await page.screenshot({ path: './screenshots/SignInPage.png', fullPage: true });
@@ -443,7 +444,7 @@ test.describe("Art & Writing Site", () => {
 
     })
 
-    test.only("Verify user able to Finish Work Judging with Continue", async ({ page }) => {
+    test("Verify user able to Finish Work Judging with Continue", async ({ page }) => {
         test.slow();
         test.setTimeout(120000); 
         const adminUserDashboardPage = new AdminUserDashboardPage(page);

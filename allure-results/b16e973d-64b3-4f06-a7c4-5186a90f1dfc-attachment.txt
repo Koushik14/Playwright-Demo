@@ -1,3 +1,0 @@
-continue button visible true
-locator name 
-row count 0

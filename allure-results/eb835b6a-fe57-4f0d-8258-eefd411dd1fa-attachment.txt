@@ -1,2 +1,0 @@
-continue button visible true
-Advance Work Count 0

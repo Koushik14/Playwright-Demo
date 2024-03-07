@@ -1,3 +1,0 @@
-leftWorkCount 0 rightWorkCount 3
-while loop 2
-while loop 1
